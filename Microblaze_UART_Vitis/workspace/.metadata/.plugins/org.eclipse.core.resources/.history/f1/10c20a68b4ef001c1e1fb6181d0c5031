@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="Hello_World" location="C:/HLS_Design/Microblaze_UART_Vitis/workspace/Hello_World" platform="C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UART_Vitis/export/Microblaze_UART_Vitis/Microblaze_UART_Vitis.xpfm" platformUID="xilinx:::0.0(custom)" systemProject="Hello_World_system" sysConfig="Microblaze_UART_Vitis" runtime="cpp" cpu="standalone_microblaze_0" cpuInstance="microblaze_0" os="standalone" mssSignature="aeacc45217285b09b89fd95c2a966cf9">
+  <configuration name="Debug" id="xilinx.gnu.mb.exe.debug.137050548">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.mb.exe.release.1217918207" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>

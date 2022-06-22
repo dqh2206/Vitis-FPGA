@@ -1,0 +1,1318 @@
+TRACE::2022-06-20.09:02:18::SCWPlatform::Trying to open the hw design at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:18::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:18::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:18::SCWPlatform::DSA directory C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:02:18::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:18::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:02:18::SCWPlatform::Do not have an existing db opened. 
+TRACE::2022-06-20.09:02:18::SCWPlatform::Opened new HwDB with name design_1_wrapper_1
+TRACE::2022-06-20.09:02:18::SCWWriter::formatted JSON is {
+	"platformName":	"Microblaze_UARTlite_Vitis_2",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"Microblaze_UARTlite_Vitis_2",
+	"platHandOff":	"C:/HLS_Design/Microblaze_UART_Vitis/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	""
+}
+TRACE::2022-06-20.09:02:19::SCWWriter::formatted JSON is {
+	"platformName":	"Microblaze_UARTlite_Vitis_2",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"Microblaze_UARTlite_Vitis_2",
+	"platHandOff":	"C:/HLS_Design/Microblaze_UART_Vitis/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"Microblaze_UARTlite_Vitis_2",
+	"systems":	[{
+			"systemName":	"Microblaze_UARTlite_Vitis_2",
+			"systemDesc":	"Microblaze_UARTlite_Vitis_2",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"Microblaze_UARTlite_Vitis_2"
+		}]
+}
+TRACE::2022-06-20.09:02:19::SCWPlatform::Boot application domains not present, creating them
+TRACE::2022-06-20.09:02:19::SCWPlatform::Pure FPGA device, no boot application will be created.
+TRACE::2022-06-20.09:02:19::SCWWriter::formatted JSON is {
+	"platformName":	"Microblaze_UARTlite_Vitis_2",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"Microblaze_UARTlite_Vitis_2",
+	"platHandOff":	"C:/HLS_Design/Microblaze_UART_Vitis/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"Microblaze_UARTlite_Vitis_2",
+	"systems":	[{
+			"systemName":	"Microblaze_UARTlite_Vitis_2",
+			"systemDesc":	"Microblaze_UARTlite_Vitis_2",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"Microblaze_UARTlite_Vitis_2"
+		}]
+}
+TRACE::2022-06-20.09:02:19::SCWPlatform::Trying to open the hw design at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:19::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:19::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:19::SCWPlatform::DSA directory C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:02:19::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:02:19::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2022-06-20.09:02:19::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2022-06-20.09:02:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-20.09:02:19::SCWPlatform::Trying to open the hw design at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:19::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:19::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:19::SCWPlatform::DSA directory C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:02:19::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:02:19::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2022-06-20.09:02:19::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2022-06-20.09:02:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-20.09:02:19::SCWPlatform::Trying to open the hw design at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:19::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:19::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:19::SCWPlatform::DSA directory C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:02:19::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:02:19::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2022-06-20.09:02:19::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2022-06-20.09:02:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-20.09:02:19::SCWDomain::checking for install qemu data   : 
+TRACE::2022-06-20.09:02:19::SCWPlatform::Trying to open the hw design at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:19::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:19::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:19::SCWPlatform::DSA directory C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:02:19::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:02:19::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2022-06-20.09:02:19::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2022-06-20.09:02:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-20.09:02:19::SCWPlatform::Trying to open the hw design at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:19::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:19::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:19::SCWPlatform::DSA directory C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:02:19::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:02:19::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2022-06-20.09:02:19::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2022-06-20.09:02:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-20.09:02:19::SCWPlatform::Trying to open the hw design at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:19::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:19::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:19::SCWPlatform::DSA directory C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:02:19::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:02:19::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2022-06-20.09:02:19::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2022-06-20.09:02:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-20.09:02:19::SCWMssOS::Checking the sw design at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:19::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2022-06-20.09:02:19::SCWMssOS::No sw design opened at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:19::SCWMssOS::mss does not exists at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:19::SCWMssOS::Creating sw design at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:19::SCWMssOS::Adding the swdes entry, created swdb C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss with des name C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:19::SCWMssOS::updating the scw layer changes to swdes at   C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:19::SCWMssOS::Writing mss at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:19::SCWMssOS::Completed writing the mss file at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp
+TRACE::2022-06-20.09:02:19::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
+TRACE::2022-06-20.09:02:19::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
+TRACE::2022-06-20.09:02:19::SCWMssOS::Completed writing the mss file at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp
+TRACE::2022-06-20.09:02:19::SCWMssOS::Forcing BSP Sources regeneration.
+TRACE::2022-06-20.09:02:33::SCWMssOS::Saving the mss changes C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:33::SCWMssOS::Adding the swdes entry, mss present, able to open swdb C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2022-06-20.09:02:33::SCWMssOS::Writing the mss file completed C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:33::SCWMssOS::Commit changes completed.
+TRACE::2022-06-20.09:02:33::SCWPlatform::Trying to open the hw design at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:33::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:33::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:33::SCWPlatform::DSA directory C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:02:33::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:33::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:02:33::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2022-06-20.09:02:33::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2022-06-20.09:02:33::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-20.09:02:33::SCWMssOS::Checking the sw design at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:33::SCWMssOS::DEBUG:  swdes dump  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2022-06-20.09:02:33::SCWMssOS::Sw design exists and opened at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:33::SCWPlatform::Trying to open the hw design at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:33::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:33::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:33::SCWPlatform::DSA directory C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:02:33::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:33::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:02:33::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2022-06-20.09:02:33::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2022-06-20.09:02:33::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-20.09:02:33::SCWMssOS::Checking the sw design at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:33::SCWMssOS::DEBUG:  swdes dump  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2022-06-20.09:02:33::SCWMssOS::Sw design exists and opened at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:33::SCWPlatform::Trying to open the hw design at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:33::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:33::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:33::SCWPlatform::DSA directory C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:02:33::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:33::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:02:33::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2022-06-20.09:02:33::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2022-06-20.09:02:33::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-20.09:02:33::SCWMssOS::Checking the sw design at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:33::SCWMssOS::DEBUG:  swdes dump  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2022-06-20.09:02:33::SCWMssOS::Sw design exists and opened at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:33::SCWWriter::formatted JSON is {
+	"platformName":	"Microblaze_UARTlite_Vitis_2",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"Microblaze_UARTlite_Vitis_2",
+	"platHandOff":	"C:/HLS_Design/Microblaze_UART_Vitis/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"Microblaze_UARTlite_Vitis_2",
+	"systems":	[{
+			"systemName":	"Microblaze_UARTlite_Vitis_2",
+			"systemDesc":	"Microblaze_UARTlite_Vitis_2",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"Microblaze_UARTlite_Vitis_2",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.7",
+					"mssFile":	"",
+					"md5Digest":	"f576dc56a3d90d59a36c707172ff2aa6",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2022-06-20.09:02:33::SCWPlatform::Started generating the artifacts platform Microblaze_UARTlite_Vitis_2
+TRACE::2022-06-20.09:02:33::SCWPlatform::Sanity checking of platform is completed
+LOG::2022-06-20.09:02:33::SCWPlatform::Started generating the artifacts for system configuration Microblaze_UARTlite_Vitis_2
+LOG::2022-06-20.09:02:33::SCWSystem::Checking the domain standalone_domain
+LOG::2022-06-20.09:02:33::SCWSystem::Not a boot domain 
+LOG::2022-06-20.09:02:33::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2022-06-20.09:02:33::SCWDomain::Generating domain artifcats
+TRACE::2022-06-20.09:02:33::SCWMssOS::Generating standalone artifcats
+TRACE::2022-06-20.09:02:33::SCWMssOS:: Copying the user libraries. 
+TRACE::2022-06-20.09:02:33::SCWPlatform::Trying to open the hw design at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:33::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:33::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:33::SCWPlatform::DSA directory C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:02:33::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:33::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:02:33::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2022-06-20.09:02:33::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2022-06-20.09:02:33::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-20.09:02:33::SCWMssOS::Checking the sw design at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:33::SCWMssOS::DEBUG:  swdes dump  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2022-06-20.09:02:33::SCWMssOS::Sw design exists and opened at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:33::SCWMssOS::Completed writing the mss file at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp
+TRACE::2022-06-20.09:02:33::SCWMssOS::Mss edits present, copying mssfile into export location C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:33::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2022-06-20.09:02:33::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2022-06-20.09:02:33::SCWDomain::Skipping the build for domain :  standalone_domain
+TRACE::2022-06-20.09:02:33::SCWMssOS::skipping the bsp build ... 
+TRACE::2022-06-20.09:02:33::SCWMssOS::Copying to export directory.
+TRACE::2022-06-20.09:02:33::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2022-06-20.09:02:33::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2022-06-20.09:02:33::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2022-06-20.09:02:33::SCWSystem::Completed Processing the sysconfig Microblaze_UARTlite_Vitis_2
+LOG::2022-06-20.09:02:33::SCWPlatform::Completed generating the artifacts for system configuration Microblaze_UARTlite_Vitis_2
+TRACE::2022-06-20.09:02:33::SCWPlatform::Started preparing the platform 
+TRACE::2022-06-20.09:02:33::SCWSystem::Writing the bif file for system config Microblaze_UARTlite_Vitis_2
+TRACE::2022-06-20.09:02:33::SCWSystem::dir created 
+TRACE::2022-06-20.09:02:33::SCWSystem::Writing the bif 
+TRACE::2022-06-20.09:02:33::SCWPlatform::Started writing the spfm file 
+TRACE::2022-06-20.09:02:33::SCWPlatform::Started writing the xpfm file 
+TRACE::2022-06-20.09:02:33::SCWPlatform::Completed generating the platform
+TRACE::2022-06-20.09:02:33::SCWMssOS::Saving the mss changes C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:33::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-06-20.09:02:33::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-06-20.09:02:33::SCWMssOS::Commit changes completed.
+TRACE::2022-06-20.09:02:33::SCWPlatform::Trying to open the hw design at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:33::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:33::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:33::SCWPlatform::DSA directory C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:02:33::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:33::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:02:33::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2022-06-20.09:02:33::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2022-06-20.09:02:33::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-20.09:02:33::SCWMssOS::Checking the sw design at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:33::SCWMssOS::DEBUG:  swdes dump  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2022-06-20.09:02:33::SCWMssOS::Sw design exists and opened at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:33::SCWPlatform::Trying to open the hw design at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:33::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:33::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:33::SCWPlatform::DSA directory C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:02:33::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:33::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:02:33::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2022-06-20.09:02:33::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2022-06-20.09:02:33::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-20.09:02:33::SCWMssOS::Checking the sw design at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:33::SCWMssOS::DEBUG:  swdes dump  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2022-06-20.09:02:33::SCWMssOS::Sw design exists and opened at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:33::SCWPlatform::Trying to open the hw design at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:33::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:33::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:33::SCWPlatform::DSA directory C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:02:33::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:33::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:02:33::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2022-06-20.09:02:33::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2022-06-20.09:02:33::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-20.09:02:33::SCWMssOS::Checking the sw design at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:33::SCWMssOS::DEBUG:  swdes dump  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2022-06-20.09:02:33::SCWMssOS::Sw design exists and opened at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:33::SCWWriter::formatted JSON is {
+	"platformName":	"Microblaze_UARTlite_Vitis_2",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"Microblaze_UARTlite_Vitis_2",
+	"platHandOff":	"C:/HLS_Design/Microblaze_UART_Vitis/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"Microblaze_UARTlite_Vitis_2",
+	"systems":	[{
+			"systemName":	"Microblaze_UARTlite_Vitis_2",
+			"systemDesc":	"Microblaze_UARTlite_Vitis_2",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"Microblaze_UARTlite_Vitis_2",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.7",
+					"mssFile":	"",
+					"md5Digest":	"f576dc56a3d90d59a36c707172ff2aa6",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2022-06-20.09:02:33::SCWPlatform::updated the xpfm file.
+TRACE::2022-06-20.09:02:34::SCWPlatform::Trying to open the hw design at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform::DSA directory C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:02:34::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:02:34::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2022-06-20.09:02:34::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2022-06-20.09:02:34::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-20.09:02:34::SCWMssOS::Checking the sw design at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:34::SCWMssOS::DEBUG:  swdes dump  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2022-06-20.09:02:34::SCWMssOS::Sw design exists and opened at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:34::SCWMssOS::Saving the mss changes C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:34::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-06-20.09:02:34::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-06-20.09:02:34::SCWMssOS::Commit changes completed.
+TRACE::2022-06-20.09:02:34::SCWPlatform::Trying to open the hw design at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform::DSA directory C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:02:34::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:02:34::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2022-06-20.09:02:34::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2022-06-20.09:02:34::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-20.09:02:34::SCWMssOS::Checking the sw design at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:34::SCWMssOS::DEBUG:  swdes dump  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2022-06-20.09:02:34::SCWMssOS::Sw design exists and opened at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:34::SCWPlatform::Trying to open the hw design at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform::DSA directory C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:02:34::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:02:34::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2022-06-20.09:02:34::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2022-06-20.09:02:34::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-20.09:02:34::SCWMssOS::Checking the sw design at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:34::SCWMssOS::DEBUG:  swdes dump  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2022-06-20.09:02:34::SCWMssOS::Sw design exists and opened at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:34::SCWPlatform::Trying to open the hw design at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform::DSA directory C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:02:34::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:02:34::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2022-06-20.09:02:34::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2022-06-20.09:02:34::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-20.09:02:34::SCWMssOS::Checking the sw design at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:34::SCWMssOS::DEBUG:  swdes dump  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2022-06-20.09:02:34::SCWMssOS::Sw design exists and opened at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:34::SCWWriter::formatted JSON is {
+	"platformName":	"Microblaze_UARTlite_Vitis_2",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"Microblaze_UARTlite_Vitis_2",
+	"platHandOff":	"C:/HLS_Design/Microblaze_UART_Vitis/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"Microblaze_UARTlite_Vitis_2",
+	"systems":	[{
+			"systemName":	"Microblaze_UARTlite_Vitis_2",
+			"systemDesc":	"Microblaze_UARTlite_Vitis_2",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"Microblaze_UARTlite_Vitis_2",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.7",
+					"mssFile":	"",
+					"md5Digest":	"f576dc56a3d90d59a36c707172ff2aa6",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2022-06-20.09:02:34::SCWPlatform::Trying to open the hw design at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform::DSA directory C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:02:34::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:02:34::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2022-06-20.09:02:34::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2022-06-20.09:02:34::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-20.09:02:34::SCWMssOS::Checking the sw design at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:34::SCWMssOS::DEBUG:  swdes dump  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2022-06-20.09:02:34::SCWMssOS::Sw design exists and opened at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:34::SCWPlatform::Trying to open the hw design at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform::DSA directory C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:02:34::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:02:34::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2022-06-20.09:02:34::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2022-06-20.09:02:34::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-20.09:02:34::SCWMssOS::Checking the sw design at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:34::SCWMssOS::DEBUG:  swdes dump  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2022-06-20.09:02:34::SCWMssOS::Sw design exists and opened at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:34::SCWPlatform::Trying to open the hw design at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform::DSA directory C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:02:34::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:02:34::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2022-06-20.09:02:34::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2022-06-20.09:02:34::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-20.09:02:34::SCWMssOS::Checking the sw design at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:34::SCWMssOS::DEBUG:  swdes dump  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2022-06-20.09:02:34::SCWMssOS::Sw design exists and opened at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:34::SCWMssOS::Saving the mss changes C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:34::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-06-20.09:02:34::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-06-20.09:02:34::SCWMssOS::Commit changes completed.
+TRACE::2022-06-20.09:02:34::SCWPlatform::Trying to open the hw design at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform::DSA directory C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:02:34::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:02:34::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2022-06-20.09:02:34::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2022-06-20.09:02:34::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-20.09:02:34::SCWMssOS::Checking the sw design at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:34::SCWMssOS::DEBUG:  swdes dump  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2022-06-20.09:02:34::SCWMssOS::Sw design exists and opened at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:34::SCWPlatform::Trying to open the hw design at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform::DSA directory C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:02:34::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:02:34::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2022-06-20.09:02:34::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2022-06-20.09:02:34::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-20.09:02:34::SCWMssOS::Checking the sw design at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:34::SCWMssOS::DEBUG:  swdes dump  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2022-06-20.09:02:34::SCWMssOS::Sw design exists and opened at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:34::SCWPlatform::Trying to open the hw design at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform::DSA directory C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:02:34::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:02:34::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2022-06-20.09:02:34::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2022-06-20.09:02:34::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-20.09:02:34::SCWMssOS::Checking the sw design at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:34::SCWMssOS::DEBUG:  swdes dump  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2022-06-20.09:02:34::SCWMssOS::Sw design exists and opened at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:34::SCWWriter::formatted JSON is {
+	"platformName":	"Microblaze_UARTlite_Vitis_2",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"Microblaze_UARTlite_Vitis_2",
+	"platHandOff":	"C:/HLS_Design/Microblaze_UART_Vitis/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"Microblaze_UARTlite_Vitis_2",
+	"systems":	[{
+			"systemName":	"Microblaze_UARTlite_Vitis_2",
+			"systemDesc":	"Microblaze_UARTlite_Vitis_2",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"Microblaze_UARTlite_Vitis_2",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.7",
+					"mssFile":	"",
+					"md5Digest":	"f576dc56a3d90d59a36c707172ff2aa6",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2022-06-20.09:02:34::SCWMssOS::Saving the mss changes C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:34::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-06-20.09:02:34::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-06-20.09:02:34::SCWMssOS::Commit changes completed.
+TRACE::2022-06-20.09:02:34::SCWPlatform::Trying to open the hw design at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform::DSA directory C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:02:34::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:02:34::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2022-06-20.09:02:34::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2022-06-20.09:02:34::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-20.09:02:34::SCWMssOS::Checking the sw design at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:34::SCWMssOS::DEBUG:  swdes dump  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2022-06-20.09:02:34::SCWMssOS::Sw design exists and opened at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:34::SCWPlatform::Trying to open the hw design at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform::DSA directory C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:02:34::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:02:34::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2022-06-20.09:02:34::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2022-06-20.09:02:34::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-20.09:02:34::SCWMssOS::Checking the sw design at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:34::SCWMssOS::DEBUG:  swdes dump  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2022-06-20.09:02:34::SCWMssOS::Sw design exists and opened at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:34::SCWPlatform::Trying to open the hw design at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform::DSA directory C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:02:34::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:34::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:02:34::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_1
+TRACE::2022-06-20.09:02:34::SCWPlatform::Opened existing hwdb design_1_wrapper_1
+TRACE::2022-06-20.09:02:34::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-20.09:02:34::SCWMssOS::Checking the sw design at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:34::SCWMssOS::DEBUG:  swdes dump  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2022-06-20.09:02:34::SCWMssOS::Sw design exists and opened at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:34::SCWWriter::formatted JSON is {
+	"platformName":	"Microblaze_UARTlite_Vitis_2",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"Microblaze_UARTlite_Vitis_2",
+	"platHandOff":	"C:/HLS_Design/Microblaze_UART_Vitis/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"Microblaze_UARTlite_Vitis_2",
+	"systems":	[{
+			"systemName":	"Microblaze_UARTlite_Vitis_2",
+			"systemDesc":	"Microblaze_UARTlite_Vitis_2",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"Microblaze_UARTlite_Vitis_2",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.7",
+					"mssFile":	"",
+					"md5Digest":	"f576dc56a3d90d59a36c707172ff2aa6",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2022-06-20.09:02:35::SCWPlatform::Clearing the existing platform
+TRACE::2022-06-20.09:02:35::SCWSystem::Clearing the existing sysconfig
+TRACE::2022-06-20.09:02:35::SCWMssOS::Removing the swdes entry for  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:35::SCWSystem::Clearing the domains completed.
+TRACE::2022-06-20.09:02:35::SCWPlatform::Clearing the opened hw db.
+TRACE::2022-06-20.09:02:35::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:35::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:35::SCWPlatform:: Platform location is C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:02:35::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:35::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:02:35::SCWPlatform::Removing the HwDB with name C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:35::SCWPlatform::Trying to open the hw design at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:35::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:35::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:35::SCWPlatform::DSA directory C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:02:35::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:35::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:02:35::SCWPlatform::Do not have an existing db opened. 
+TRACE::2022-06-20.09:02:35::SCWPlatform::Opened new HwDB with name design_1_wrapper_2
+TRACE::2022-06-20.09:02:35::SCWReader::Active system found as  Microblaze_UARTlite_Vitis_2
+TRACE::2022-06-20.09:02:35::SCWReader::Handling sysconfig Microblaze_UARTlite_Vitis_2
+TRACE::2022-06-20.09:02:35::SCWDomain::checking for install qemu data   : 
+TRACE::2022-06-20.09:02:35::SCWPlatform::Trying to open the hw design at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:35::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:35::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:35::SCWPlatform::DSA directory C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:02:35::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:35::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:02:35::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2022-06-20.09:02:35::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2022-06-20.09:02:35::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-20.09:02:35::SCWPlatform::Trying to open the hw design at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:35::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:35::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:35::SCWPlatform::DSA directory C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:02:35::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:35::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:02:35::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2022-06-20.09:02:35::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2022-06-20.09:02:35::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-20.09:02:35::SCWPlatform::Trying to open the hw design at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:35::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:35::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:35::SCWPlatform::DSA directory C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:02:35::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:35::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:02:35::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2022-06-20.09:02:35::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2022-06-20.09:02:35::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-20.09:02:35::SCWPlatform::Trying to open the hw design at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:35::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:35::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:35::SCWPlatform::DSA directory C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:02:35::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:35::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:02:35::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2022-06-20.09:02:35::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2022-06-20.09:02:35::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-20.09:02:35::SCWMssOS::Checking the sw design at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:35::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2022-06-20.09:02:35::SCWMssOS::No sw design opened at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:35::SCWMssOS::mss exists loading the mss file  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:35::SCWMssOS::Opened the sw design from mss  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:35::SCWMssOS::Adding the swdes entry C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2022-06-20.09:02:35::SCWMssOS::updating the scw layer about changes
+TRACE::2022-06-20.09:02:35::SCWMssOS::Opened the sw design.  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:35::SCWMssOS::Saving the mss changes C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:35::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-06-20.09:02:35::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-06-20.09:02:35::SCWMssOS::Commit changes completed.
+TRACE::2022-06-20.09:02:35::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2022-06-20.09:02:35::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2022-06-20.09:02:35::SCWPlatform::Trying to open the hw design at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:35::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:35::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:35::SCWPlatform::DSA directory C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:02:35::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:02:35::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:02:35::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2022-06-20.09:02:35::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2022-06-20.09:02:35::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-20.09:02:35::SCWMssOS::Checking the sw design at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:35::SCWMssOS::DEBUG:  swdes dump  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2022-06-20.09:02:35::SCWMssOS::Sw design exists and opened at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:02:35::SCWReader::No isolation master present  
+LOG::2022-06-20.09:03:46::SCWPlatform::Started generating the artifacts platform Microblaze_UARTlite_Vitis_2
+TRACE::2022-06-20.09:03:46::SCWPlatform::Sanity checking of platform is completed
+LOG::2022-06-20.09:03:46::SCWPlatform::Started generating the artifacts for system configuration Microblaze_UARTlite_Vitis_2
+LOG::2022-06-20.09:03:46::SCWSystem::Checking the domain standalone_domain
+LOG::2022-06-20.09:03:46::SCWSystem::Not a boot domain 
+LOG::2022-06-20.09:03:46::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2022-06-20.09:03:46::SCWDomain::Generating domain artifcats
+TRACE::2022-06-20.09:03:46::SCWMssOS::Generating standalone artifcats
+TRACE::2022-06-20.09:03:46::SCWMssOS:: Copying the user libraries. 
+TRACE::2022-06-20.09:03:46::SCWPlatform::Trying to open the hw design at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:03:46::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:03:46::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:03:46::SCWPlatform::DSA directory C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:03:46::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:03:46::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:03:46::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2022-06-20.09:03:46::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2022-06-20.09:03:46::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-20.09:03:46::SCWMssOS::Checking the sw design at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:03:46::SCWMssOS::DEBUG:  swdes dump  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2022-06-20.09:03:46::SCWMssOS::Sw design exists and opened at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:03:46::SCWMssOS::Completed writing the mss file at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp
+TRACE::2022-06-20.09:03:46::SCWMssOS::Mss edits present, copying mssfile into export location C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:03:46::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2022-06-20.09:03:46::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2022-06-20.09:03:46::SCWDomain::Building the domain as part of full build :  standalone_domain
+TRACE::2022-06-20.09:03:46::SCWMssOS::doing bsp build ... 
+TRACE::2022-06-20.09:03:46::SCWMssOS::System Command Ran  C: & cd  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp & make 
+TRACE::2022-06-20.09:03:47::SCWMssOS::make --no-print-directory seq_libs
+
+TRACE::2022-06-20.09:03:47::SCWMssOS::'Finished building libraries sequentially.'
+
+TRACE::2022-06-20.09:03:47::SCWMssOS::make -j 6 --no-print-directory par_libs
+
+TRACE::2022-06-20.09:03:47::SCWMssOS::"Running Make include in microblaze_0/libsrc/bram_v4_7/src"
+
+TRACE::2022-06-20.09:03:47::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_7/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2022-06-20.09:03:47::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2022-06-20.09:03:47::SCWMssOS::-Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2022-06-20.09:03:47::SCWMssOS::"Running Make include in microblaze_0/libsrc/cpu_v2_15/src"
+
+TRACE::2022-06-20.09:03:47::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_15/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2022-06-20.09:03:47::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2022-06-20.09:03:47::SCWMssOS::-Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2022-06-20.09:03:47::SCWMssOS::"Running Make include in microblaze_0/libsrc/intc_v3_14/src"
+
+TRACE::2022-06-20.09:03:47::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_14/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2022-06-20.09:03:47::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall
+TRACE::2022-06-20.09:03:47::SCWMssOS:: -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2022-06-20.09:03:47::SCWMssOS::"Running Make include in microblaze_0/libsrc/standalone_v7_7/src"
+
+TRACE::2022-06-20.09:03:47::SCWMssOS::make -C microblaze_0/libsrc/standalone_v7_7/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "C
+TRACE::2022-06-20.09:03:47::SCWMssOS::OMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections 
+TRACE::2022-06-20.09:03:47::SCWMssOS::-Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2022-06-20.09:03:47::SCWMssOS::"Running Make include in microblaze_0/libsrc/uartlite_v3_7/src"
+
+TRACE::2022-06-20.09:03:47::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_7/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+TRACE::2022-06-20.09:03:47::SCWMssOS::PILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -W
+TRACE::2022-06-20.09:03:47::SCWMssOS::all -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2022-06-20.09:03:50::SCWMssOS::"Running Make libs in microblaze_0/libsrc/bram_v4_7/src"
+
+TRACE::2022-06-20.09:03:50::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_7/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2022-06-20.09:03:50::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -We
+TRACE::2022-06-20.09:03:50::SCWMssOS::xtra -fno-tree-loop-distribute-patterns"
+
+TRACE::2022-06-20.09:03:50::SCWMssOS::"Running Make libs in microblaze_0/libsrc/cpu_v2_15/src"
+
+TRACE::2022-06-20.09:03:51::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_15/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2022-06-20.09:03:51::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -We
+TRACE::2022-06-20.09:03:51::SCWMssOS::xtra -fno-tree-loop-distribute-patterns"
+
+TRACE::2022-06-20.09:03:51::SCWMssOS::"Running Make libs in microblaze_0/libsrc/intc_v3_14/src"
+
+TRACE::2022-06-20.09:03:51::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_14/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_
+TRACE::2022-06-20.09:03:51::SCWMssOS::FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -W
+TRACE::2022-06-20.09:03:51::SCWMssOS::extra -fno-tree-loop-distribute-patterns"
+
+TRACE::2022-06-20.09:03:51::SCWMssOS::"Running Make libs in microblaze_0/libsrc/standalone_v7_7/src"
+
+TRACE::2022-06-20.09:03:51::SCWMssOS::make -C microblaze_0/libsrc/standalone_v7_7/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMP
+TRACE::2022-06-20.09:03:51::SCWMssOS::ILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wa
+TRACE::2022-06-20.09:03:51::SCWMssOS::ll -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2022-06-20.09:03:56::SCWMssOS::"Running Make libs in microblaze_0/libsrc/uartlite_v3_7/src"
+
+TRACE::2022-06-20.09:03:56::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_7/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2022-06-20.09:03:56::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall
+TRACE::2022-06-20.09:03:56::SCWMssOS:: -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2022-06-20.09:04:03::SCWMssOS::"DEBUG NON_LTO_OBJECTS is ../../../lib/microblaze_interrupt_handler.o"
+
+TRACE::2022-06-20.09:04:03::SCWMssOS::'Finished building libraries parallelly.'
+
+TRACE::2022-06-20.09:04:03::SCWMssOS::make --no-print-directory archive
+
+TRACE::2022-06-20.09:04:03::SCWMssOS::mb-ar -r  microblaze_0/lib/libxil.a microblaze_0/lib/xplatform_info.o microblaze_0/lib/xuartlite.o microblaze_0/lib/microblaze_
+TRACE::2022-06-20.09:04:03::SCWMssOS::disable_exceptions.o microblaze_0/lib/print.o microblaze_0/lib/_exit.o microblaze_0/lib/xil_testio.o microblaze_0/lib/microblaz
+TRACE::2022-06-20.09:04:03::SCWMssOS::e_disable_dcache.o microblaze_0/lib/microblaze_flush_dcache_range.o microblaze_0/lib/microblaze_flush_cache_ext.o microblaze_0/
+TRACE::2022-06-20.09:04:03::SCWMssOS::lib/xbram_sinit.o microblaze_0/lib/xil_misc_psreset_api.o microblaze_0/lib/xinterrupt_wrap.o microblaze_0/lib/xil_cache.o micro
+TRACE::2022-06-20.09:04:03::SCWMssOS::blaze_0/lib/xil_util.o microblaze_0/lib/inbyte.o microblaze_0/lib/xbram_g.o microblaze_0/lib/xuartlite_stats.o microblaze_0/lib
+TRACE::2022-06-20.09:04:03::SCWMssOS::/microblaze_exception_handler.o microblaze_0/lib/microblaze_scrub.o microblaze_0/lib/microblaze_invalidate_dcache.o microblaze_
+TRACE::2022-06-20.09:04:03::SCWMssOS::0/lib/microblaze_disable_interrupts.o microblaze_0/lib/xbram_selftest.o microblaze_0/lib/microblaze_interrupt_handler.o microbl
+TRACE::2022-06-20.09:04:03::SCWMssOS::aze_0/lib/microblaze_disable_icache.o microblaze_0/lib/xil_mem.o microblaze_0/lib/xuartlite_intr.o microblaze_0/lib/microblaze_
+TRACE::2022-06-20.09:04:03::SCWMssOS::flush_cache_ext_range.o microblaze_0/lib/xbram_intr.o microblaze_0/lib/xil_sleepcommon.o microblaze_0/lib/xil_printf.o microbla
+TRACE::2022-06-20.09:04:03::SCWMssOS::ze_0/lib/xintc_g.o microblaze_0/lib/xuartlite_g.o microblaze_0/lib/xintc_selftest.o microblaze_0/lib/xintc_l.o microblaze_0/lib
+TRACE::2022-06-20.09:04:03::SCWMssOS::/outbyte.o microblaze_0/lib/microblaze_invalidate_dcache_range.o microblaze_0/lib/microblaze_invalidate_cache_ext.o microblaze_
+TRACE::2022-06-20.09:04:03::SCWMssOS::0/lib/microblaze_sleep.o microblaze_0/lib/hw_exception_handler.o microblaze_0/lib/xuartlite_selftest.o microblaze_0/lib/xintc_i
+TRACE::2022-06-20.09:04:03::SCWMssOS::ntr.o microblaze_0/lib/microblaze_update_dcache.o microblaze_0/lib/xil_testcache.o microblaze_0/lib/microblaze_selftest.o micro
+TRACE::2022-06-20.09:04:03::SCWMssOS::blaze_0/lib/microblaze_interrupts_g.o microblaze_0/lib/microblaze_enable_exceptions.o microblaze_0/lib/microblaze_enable_dcache
+TRACE::2022-06-20.09:04:03::SCWMssOS::.o microblaze_0/lib/xbram.o microblaze_0/lib/microblaze_invalidate_icache_range.o microblaze_0/lib/microblaze_init_dcache_range
+TRACE::2022-06-20.09:04:03::SCWMssOS::.o microblaze_0/lib/microblaze_invalidate_icache.o microblaze_0/lib/errno.o microblaze_0/lib/xuartlite_l.o microblaze_0/lib/xin
+TRACE::2022-06-20.09:04:03::SCWMssOS::tc_options.o microblaze_0/lib/microblaze_invalidate_cache_ext_range.o microblaze_0/lib/xil_exception.o microblaze_0/lib/pvr.o m
+TRACE::2022-06-20.09:04:03::SCWMssOS::icroblaze_0/lib/xil_testmem.o microblaze_0/lib/microblaze_update_icache.o microblaze_0/lib/microblaze_flush_dcache.o microblaze
+TRACE::2022-06-20.09:04:03::SCWMssOS::_0/lib/xil_clocking.o microblaze_0/lib/xil_assert.o microblaze_0/lib/microblaze_enable_interrupts.o microblaze_0/lib/xio.o micr
+TRACE::2022-06-20.09:04:03::SCWMssOS::oblaze_0/lib/microblaze_enable_icache.o microblaze_0/lib/xintc.o microblaze_0/lib/xuartlite_sinit.o microblaze_0/lib/fcntl.o mi
+TRACE::2022-06-20.09:04:03::SCWMssOS::croblaze_0/lib/microblaze_init_icache_range.o
+
+TRACE::2022-06-20.09:04:04::SCWMssOS::'Finished building libraries'
+
+TRACE::2022-06-20.09:04:04::SCWMssOS::Copying to export directory.
+TRACE::2022-06-20.09:04:05::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2022-06-20.09:04:05::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2022-06-20.09:04:05::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2022-06-20.09:04:05::SCWSystem::Completed Processing the sysconfig Microblaze_UARTlite_Vitis_2
+LOG::2022-06-20.09:04:05::SCWPlatform::Completed generating the artifacts for system configuration Microblaze_UARTlite_Vitis_2
+TRACE::2022-06-20.09:04:05::SCWPlatform::Started preparing the platform 
+TRACE::2022-06-20.09:04:05::SCWSystem::Writing the bif file for system config Microblaze_UARTlite_Vitis_2
+TRACE::2022-06-20.09:04:05::SCWSystem::dir created 
+TRACE::2022-06-20.09:04:05::SCWSystem::Writing the bif 
+TRACE::2022-06-20.09:04:05::SCWPlatform::Started writing the spfm file 
+TRACE::2022-06-20.09:04:05::SCWPlatform::Started writing the xpfm file 
+TRACE::2022-06-20.09:04:05::SCWPlatform::Completed generating the platform
+TRACE::2022-06-20.09:04:05::SCWMssOS::Saving the mss changes C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:04:05::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-06-20.09:04:05::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-06-20.09:04:05::SCWMssOS::Commit changes completed.
+TRACE::2022-06-20.09:04:05::SCWPlatform::Trying to open the hw design at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:04:05::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:04:05::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:04:05::SCWPlatform::DSA directory C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:04:05::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:04:05::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:04:05::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2022-06-20.09:04:05::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2022-06-20.09:04:05::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-20.09:04:05::SCWMssOS::Checking the sw design at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:04:05::SCWMssOS::DEBUG:  swdes dump  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2022-06-20.09:04:05::SCWMssOS::Sw design exists and opened at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:04:05::SCWWriter::formatted JSON is {
+	"platformName":	"Microblaze_UARTlite_Vitis_2",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"Microblaze_UARTlite_Vitis_2",
+	"platHandOff":	"C:/HLS_Design/Microblaze_UART_Vitis/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"Microblaze_UARTlite_Vitis_2",
+	"systems":	[{
+			"systemName":	"Microblaze_UARTlite_Vitis_2",
+			"systemDesc":	"Microblaze_UARTlite_Vitis_2",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"Microblaze_UARTlite_Vitis_2",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.7",
+					"mssFile":	"",
+					"md5Digest":	"f576dc56a3d90d59a36c707172ff2aa6",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2022-06-20.09:04:05::SCWPlatform::updated the xpfm file.
+TRACE::2022-06-20.09:04:06::SCWPlatform::Trying to open the hw design at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:04:06::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:04:06::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:04:06::SCWPlatform::DSA directory C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:04:06::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:04:06::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:04:06::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2022-06-20.09:04:06::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2022-06-20.09:04:06::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-20.09:04:06::SCWMssOS::Checking the sw design at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:04:06::SCWMssOS::DEBUG:  swdes dump  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2022-06-20.09:04:06::SCWMssOS::Sw design exists and opened at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:12:05::SCWPlatform::Trying to open the hw design at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:12:05::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:12:05::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:12:05::SCWPlatform::DSA directory C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:12:06::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:12:06::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:12:06::SCWPlatform::Do not have an existing db opened. 
+TRACE::2022-06-20.09:12:06::SCWPlatform::Opened new HwDB with name design_1_wrapper_0
+TRACE::2022-06-20.09:12:06::SCWReader::Active system found as  Microblaze_UARTlite_Vitis_2
+TRACE::2022-06-20.09:12:06::SCWReader::Handling sysconfig Microblaze_UARTlite_Vitis_2
+TRACE::2022-06-20.09:12:06::SCWDomain::checking for install qemu data   : 
+TRACE::2022-06-20.09:12:06::SCWPlatform::Trying to open the hw design at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:12:06::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:12:06::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:12:06::SCWPlatform::DSA directory C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:12:06::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:12:06::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:12:06::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-06-20.09:12:06::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-06-20.09:12:06::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-20.09:12:06::SCWPlatform::Trying to open the hw design at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:12:06::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:12:06::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:12:06::SCWPlatform::DSA directory C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:12:06::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:12:06::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:12:06::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-06-20.09:12:06::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-06-20.09:12:06::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-20.09:12:06::SCWPlatform::Trying to open the hw design at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:12:06::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:12:06::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:12:06::SCWPlatform::DSA directory C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:12:06::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:12:06::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:12:06::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-06-20.09:12:06::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-06-20.09:12:06::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-20.09:12:06::SCWPlatform::Trying to open the hw design at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:12:06::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:12:06::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:12:06::SCWPlatform::DSA directory C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:12:06::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:12:06::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:12:06::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-06-20.09:12:06::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-06-20.09:12:06::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-20.09:12:06::SCWMssOS::Checking the sw design at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:12:06::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2022-06-20.09:12:06::SCWMssOS::No sw design opened at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:12:06::SCWMssOS::mss exists loading the mss file  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:12:06::SCWMssOS::Opened the sw design from mss  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:12:06::SCWMssOS::Adding the swdes entry C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2022-06-20.09:12:06::SCWMssOS::updating the scw layer about changes
+TRACE::2022-06-20.09:12:06::SCWMssOS::Opened the sw design.  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:12:06::SCWMssOS::Saving the mss changes C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:12:06::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-06-20.09:12:06::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-06-20.09:12:06::SCWMssOS::Commit changes completed.
+TRACE::2022-06-20.09:12:06::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2022-06-20.09:12:06::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2022-06-20.09:12:06::SCWPlatform::Trying to open the hw design at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:12:06::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:12:06::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:12:06::SCWPlatform::DSA directory C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:12:06::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:12:06::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:12:06::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2022-06-20.09:12:06::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2022-06-20.09:12:06::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-20.09:12:06::SCWMssOS::Checking the sw design at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:12:06::SCWMssOS::DEBUG:  swdes dump  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2022-06-20.09:12:06::SCWMssOS::Sw design exists and opened at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:12:06::SCWReader::No isolation master present  
+TRACE::2022-06-20.09:57:39::SCWPlatform::Trying to open the hw design at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:57:39::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:57:39::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:57:39::SCWPlatform::DSA directory C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:57:39::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:57:39::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:57:39::SCWPlatform::Do not have an existing db opened. 
+TRACE::2022-06-20.09:57:41::SCWPlatform::Opened new HwDB with name design_1_wrapper
+TRACE::2022-06-20.09:57:41::SCWReader::Active system found as  Microblaze_UARTlite_Vitis_2
+TRACE::2022-06-20.09:57:41::SCWReader::Handling sysconfig Microblaze_UARTlite_Vitis_2
+TRACE::2022-06-20.09:57:41::SCWDomain::checking for install qemu data   : 
+TRACE::2022-06-20.09:57:41::SCWPlatform::Trying to open the hw design at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:57:41::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:57:41::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:57:41::SCWPlatform::DSA directory C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:57:41::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:57:41::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:57:41::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper
+TRACE::2022-06-20.09:57:41::SCWPlatform::Opened existing hwdb design_1_wrapper
+TRACE::2022-06-20.09:57:41::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-20.09:57:41::SCWPlatform::Trying to open the hw design at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:57:41::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:57:41::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:57:41::SCWPlatform::DSA directory C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:57:41::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:57:41::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:57:41::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper
+TRACE::2022-06-20.09:57:41::SCWPlatform::Opened existing hwdb design_1_wrapper
+TRACE::2022-06-20.09:57:41::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-20.09:57:41::SCWPlatform::Trying to open the hw design at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:57:41::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:57:41::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:57:41::SCWPlatform::DSA directory C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:57:41::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:57:41::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:57:41::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper
+TRACE::2022-06-20.09:57:41::SCWPlatform::Opened existing hwdb design_1_wrapper
+TRACE::2022-06-20.09:57:41::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-20.09:57:41::SCWPlatform::Trying to open the hw design at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:57:41::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:57:41::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:57:41::SCWPlatform::DSA directory C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:57:41::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:57:41::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:57:41::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper
+TRACE::2022-06-20.09:57:41::SCWPlatform::Opened existing hwdb design_1_wrapper
+TRACE::2022-06-20.09:57:41::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-20.09:57:41::SCWMssOS::Checking the sw design at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:57:41::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2022-06-20.09:57:41::SCWMssOS::No sw design opened at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:57:41::SCWMssOS::mss exists loading the mss file  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:57:41::SCWMssOS::Opened the sw design from mss  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:57:41::SCWMssOS::Adding the swdes entry C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss with des name system
+TRACE::2022-06-20.09:57:41::SCWMssOS::updating the scw layer about changes
+TRACE::2022-06-20.09:57:41::SCWMssOS::Opened the sw design.  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:57:41::SCWMssOS::Saving the mss changes C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:57:41::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-06-20.09:57:41::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-06-20.09:57:41::SCWMssOS::Commit changes completed.
+TRACE::2022-06-20.09:57:41::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2022-06-20.09:57:41::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2022-06-20.09:57:41::SCWPlatform::Trying to open the hw design at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:57:41::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:57:41::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:57:41::SCWPlatform::DSA directory C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:57:41::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:57:41::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:57:41::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper
+TRACE::2022-06-20.09:57:41::SCWPlatform::Opened existing hwdb design_1_wrapper
+TRACE::2022-06-20.09:57:41::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-20.09:57:41::SCWMssOS::Checking the sw design at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:57:41::SCWMssOS::DEBUG:  swdes dump  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2022-06-20.09:57:41::SCWMssOS::Sw design exists and opened at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:57:41::SCWReader::No isolation master present  
+LOG::2022-06-20.09:57:41::SCWPlatform::Started generating the artifacts platform Microblaze_UARTlite_Vitis_2
+TRACE::2022-06-20.09:57:41::SCWPlatform::Sanity checking of platform is completed
+LOG::2022-06-20.09:57:43::SCWPlatform::Started generating the artifacts for system configuration Microblaze_UARTlite_Vitis_2
+LOG::2022-06-20.09:57:43::SCWSystem::Checking the domain standalone_domain
+LOG::2022-06-20.09:57:43::SCWSystem::Not a boot domain 
+LOG::2022-06-20.09:57:44::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2022-06-20.09:57:44::SCWDomain::Generating domain artifcats
+TRACE::2022-06-20.09:57:44::SCWMssOS::Generating standalone artifcats
+TRACE::2022-06-20.09:57:44::SCWMssOS:: Copying the user libraries. 
+TRACE::2022-06-20.09:57:44::SCWPlatform::Trying to open the hw design at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:57:44::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:57:44::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:57:44::SCWPlatform::DSA directory C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:57:44::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:57:44::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:57:44::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper
+TRACE::2022-06-20.09:57:44::SCWPlatform::Opened existing hwdb design_1_wrapper
+TRACE::2022-06-20.09:57:44::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-20.09:57:44::SCWMssOS::Checking the sw design at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:57:44::SCWMssOS::DEBUG:  swdes dump  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2022-06-20.09:57:44::SCWMssOS::Sw design exists and opened at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:57:44::SCWMssOS::Completed writing the mss file at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp
+TRACE::2022-06-20.09:57:44::SCWMssOS::Mss edits present, copying mssfile into export location C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:57:44::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2022-06-20.09:57:44::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2022-06-20.09:57:44::SCWDomain::Skipping the build for domain :  standalone_domain
+TRACE::2022-06-20.09:57:44::SCWMssOS::skipping the bsp build ... 
+TRACE::2022-06-20.09:57:44::SCWMssOS::Copying to export directory.
+TRACE::2022-06-20.09:57:49::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2022-06-20.09:57:49::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2022-06-20.09:57:49::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2022-06-20.09:57:49::SCWSystem::Completed Processing the sysconfig Microblaze_UARTlite_Vitis_2
+LOG::2022-06-20.09:57:49::SCWPlatform::Completed generating the artifacts for system configuration Microblaze_UARTlite_Vitis_2
+TRACE::2022-06-20.09:57:49::SCWPlatform::Started preparing the platform 
+TRACE::2022-06-20.09:57:49::SCWSystem::Writing the bif file for system config Microblaze_UARTlite_Vitis_2
+TRACE::2022-06-20.09:57:49::SCWSystem::dir created 
+TRACE::2022-06-20.09:57:49::SCWSystem::Writing the bif 
+TRACE::2022-06-20.09:57:49::SCWPlatform::Started writing the spfm file 
+TRACE::2022-06-20.09:57:49::SCWPlatform::Started writing the xpfm file 
+TRACE::2022-06-20.09:57:49::SCWPlatform::Completed generating the platform
+TRACE::2022-06-20.09:57:49::SCWMssOS::Saving the mss changes C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:57:49::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-06-20.09:57:49::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-06-20.09:57:49::SCWMssOS::Commit changes completed.
+TRACE::2022-06-20.09:57:49::SCWPlatform::Trying to open the hw design at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:57:49::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:57:49::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:57:49::SCWPlatform::DSA directory C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:57:49::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:57:49::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:57:49::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper
+TRACE::2022-06-20.09:57:49::SCWPlatform::Opened existing hwdb design_1_wrapper
+TRACE::2022-06-20.09:57:49::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-20.09:57:49::SCWMssOS::Checking the sw design at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:57:49::SCWMssOS::DEBUG:  swdes dump  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2022-06-20.09:57:49::SCWMssOS::Sw design exists and opened at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:57:49::SCWWriter::formatted JSON is {
+	"platformName":	"Microblaze_UARTlite_Vitis_2",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"Microblaze_UARTlite_Vitis_2",
+	"platHandOff":	"C:/HLS_Design/Microblaze_UART_Vitis/design_1_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"Microblaze_UARTlite_Vitis_2",
+	"systems":	[{
+			"systemName":	"Microblaze_UARTlite_Vitis_2",
+			"systemDesc":	"Microblaze_UARTlite_Vitis_2",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"Microblaze_UARTlite_Vitis_2",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on microblaze_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.7",
+					"mssFile":	"",
+					"md5Digest":	"f576dc56a3d90d59a36c707172ff2aa6",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2022-06-20.09:57:49::SCWPlatform::updated the xpfm file.
+TRACE::2022-06-20.09:57:50::SCWPlatform::Trying to open the hw design at C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:57:50::SCWPlatform::DSA given C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:57:50::SCWPlatform::DSA absoulate path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:57:50::SCWPlatform::DSA directory C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw
+TRACE::2022-06-20.09:57:50::SCWPlatform:: Platform Path C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/hw/design_1_wrapper.xsa
+TRACE::2022-06-20.09:57:50::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2022-06-20.09:57:50::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper
+TRACE::2022-06-20.09:57:50::SCWPlatform::Opened existing hwdb design_1_wrapper
+TRACE::2022-06-20.09:57:50::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-06-20.09:57:50::SCWMssOS::Checking the sw design at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss
+TRACE::2022-06-20.09:57:50::SCWMssOS::DEBUG:  swdes dump  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss|system||
+
+TRACE::2022-06-20.09:57:50::SCWMssOS::Sw design exists and opened at  C:/HLS_Design/Microblaze_UART_Vitis/workspace/Microblaze_UARTlite_Vitis_2/microblaze_0/standalone_domain/bsp/system.mss

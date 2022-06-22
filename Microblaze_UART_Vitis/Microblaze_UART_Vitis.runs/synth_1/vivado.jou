@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Mon Jun 20 17:53:04 2022
+# Process ID: 1740
+# Current directory: C:/HLS_Design/Microblaze_UART_Vitis/Microblaze_UART_Vitis.runs/synth_1
+# Command line: vivado.exe -log design_1_wrapper.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source design_1_wrapper.tcl
+# Log file: C:/HLS_Design/Microblaze_UART_Vitis/Microblaze_UART_Vitis.runs/synth_1/design_1_wrapper.vds
+# Journal file: C:/HLS_Design/Microblaze_UART_Vitis/Microblaze_UART_Vitis.runs/synth_1\vivado.jou
+# Running On: DESKTOP-ABLTD3Q, OS: Windows, CPU Frequency: 1992 MHz, CPU Physical cores: 4, Host memory: 8482 MB
+#-----------------------------------------------------------
+source design_1_wrapper.tcl -notrace

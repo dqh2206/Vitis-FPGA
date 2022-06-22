@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="Hello_World_system-imgFile" value=""/>
+	<item key="Hello_World_system-offSet" value=""/>
+	<item key="Hello_World_system-initFile" value=""/>
+	<item key="Hello_World_system-flashType" value="28f00am29ew-bpi-x16"/>
+	<item key="Hello_World_system-verifyFlash" value="false"/>
+	<item key="Hello_World_system-blankCheck" value="false"/>
+	<item key="Hello_World_system-device" value="Auto Detect"/>
+	<item key="Hello_World_system-target" value="Local"/>
+	<item key="programflash.hwplatform" value="Microblaze_UARTlite_Example_system"/>
+	<item key="Microblaze_UARTlite_Example_system-imgFile" value=""/>
+	<item key="Microblaze_UARTlite_Example_system-offSet" value=""/>
+	<item key="Microblaze_UARTlite_Example_system-initFile" value=""/>
+	<item key="Microblaze_UARTlite_Example_system-flashType" value="28f00am29ew-bpi-x16"/>
+	<item key="Microblaze_UARTlite_Example_system-verifyFlash" value="false"/>
+	<item key="Microblaze_UARTlite_Example_system-blankCheck" value="false"/>
+	<item key="Microblaze_UARTlite_Example_system-device" value="Auto Detect"/>
+	<item key="Microblaze_UARTlite_Example_system-target" value="Local"/>
+</section>

@@ -1,0 +1,28 @@
+18:31:35 **** Incremental Build of configuration Debug for project Hello_World_2 ****
+make all 
+'Building file: ../src/helloworld.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -IC:/HLS_Design/Microblaze_UART_Vitis/workspace/design_1_wrapper/export/design_1_wrapper/sw/design_1_wrapper/standalone_microblaze_0/bspinclude/include -mlittle-endian -mcpu=v11.0 -mxl-soft-mul -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:106:7: warning: variable 'TxStatus' set but not used [-Wunused-but-set-variable]
+  106 |   int TxStatus;
+      |       ^~~~~~~~
+../src/helloworld.c:105:13: warning: variable 'UartLiteStatus' set but not used [-Wunused-but-set-variable]
+  105 |         int UartLiteStatus;
+      |             ^~~~~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: Hello_World_2.elf'
+'Invoking: MicroBlaze gcc linker'
+mb-gcc -Wl,-T -Wl,../src/lscript.ld -LC:/HLS_Design/Microblaze_UART_Vitis/workspace/design_1_wrapper/export/design_1_wrapper/sw/design_1_wrapper/standalone_microblaze_0/bsplib/lib -mlittle-endian -mcpu=v11.0 -mxl-soft-mul -Wl,--no-relax -Wl,--gc-sections -o "Hello_World_2.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Hello_World_2.elf'
+' '
+'Invoking: MicroBlaze Print Size'
+mb-size Hello_World_2.elf  |tee "Hello_World_2.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+   8648	    336	   3232	  12216	   2fb8	Hello_World_2.elf
+'Finished building: Hello_World_2.elf.size'
+' '
+
+18:31:37 Build Finished (took 1s.694ms)
+

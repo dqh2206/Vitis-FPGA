@@ -1,0 +1,6 @@
+18:24:30 **** Incremental Build of configuration Debug for project Microblaze_UARTlite_Example_system ****
+make all 
+Skipping SD card image generation. Reason: "The system project only has applications for microblaze processors."
+
+18:24:30 Build Finished (took 261ms)
+
