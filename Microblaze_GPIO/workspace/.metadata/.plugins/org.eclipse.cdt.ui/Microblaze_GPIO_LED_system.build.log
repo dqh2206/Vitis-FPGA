@@ -1,0 +1,6 @@
+18:14:37 **** Incremental Build of configuration Debug for project Microblaze_GPIO_LED_system ****
+make all 
+Skipping SD card image generation. Reason: "The system project only has applications for microblaze processors."
+
+18:14:37 Build Finished (took 121ms)
+

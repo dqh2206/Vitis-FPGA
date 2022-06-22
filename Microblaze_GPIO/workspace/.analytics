@@ -1,0 +1,27 @@
+timestamp=[2022-06-22 10:46:54], mode=WORKBENCH_START, duration=0:00:25.460, duration_ms=25460, data={}
+timestamp=[2022-06-22 10:47:01], mode=WORKBENCH_UI_INIT, duration=0:00:06.576, duration_ms=6576, data={editors_count=0, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2022-06-22 10:47:09], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:11.410, duration_ms=11410, data={}
+timestamp=[2022-06-22 10:47:59], mode=PLATFORM_CREATION, duration=0:00:20.837, duration_ms=20837, data={platform_source=dsa, os=standalone, processor=microblaze, platform=null}
+timestamp=[2022-06-22 10:48:58], mode=PLATFORM_GENERATION, duration=0:00:28.786, duration_ms=28786, data={name=Microblaze_GPIO}
+timestamp=[2022-06-22 10:49:47], mode=APP_CREATION, duration=0:00:04.473, duration_ms=4473, data={name=Microblaze_GPIO_LED, project_type=sdk, os=standalone, processor=microblaze_0, runtime=C/C++, platform=Microblaze_GPIO, application_type=application}
+timestamp=[2022-06-22 10:54:06], mode=BUILD, duration=0:00:03.453, duration_ms=3453, data={name=Microblaze_GPIO_LED, configuration=Debug, clean_build=false}
+timestamp=[2022-06-22 10:54:07], mode=BUILD, duration=0:00:00.195, duration_ms=195, data={name=Microblaze_GPIO_LED_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-22 15:49:33], mode=WORKBENCH_START, duration=0:01:22.098, duration_ms=82098, data={}
+timestamp=[2022-06-22 15:49:47], mode=WORKBENCH_UI_INIT, duration=0:00:14.519, duration_ms=14519, data={editors_count=9, platform_editors_count=6, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=Microblaze_GPIO,Microblaze_GPIO_LED,Microblaze_GPIO_LED_system,RemoteSystemsTempFiles}
+timestamp=[2022-06-22 15:50:05], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:22.204, duration_ms=22204, data={}
+timestamp=[2022-06-22 16:01:16], mode=PLATFORM_GENERATION, duration=0:00:23.773, duration_ms=23773, data={name=Microblaze_GPIO}
+timestamp=[2022-06-22 16:01:27], mode=BUILD, duration=0:00:09.756, duration_ms=9756, data={name=Microblaze_GPIO_LED, configuration=Debug, clean_build=false}
+timestamp=[2022-06-22 16:02:37], mode=BUILD, duration=0:00:06.517, duration_ms=6517, data={name=Microblaze_GPIO_LED, configuration=Debug, clean_build=false}
+timestamp=[2022-06-22 16:02:37], mode=BUILD, duration=0:00:00.308, duration_ms=308, data={name=Microblaze_GPIO_LED_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-22 16:41:10], mode=BUILD, duration=0:00:03.879, duration_ms=3879, data={name=Microblaze_GPIO_LED, configuration=Debug, clean_build=false}
+timestamp=[2022-06-22 16:41:10], mode=BUILD, duration=0:00:00.202, duration_ms=202, data={name=Microblaze_GPIO_LED_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-22 16:52:59], mode=BUILD, duration=0:00:02.248, duration_ms=2248, data={name=Microblaze_GPIO_LED, configuration=Debug, clean_build=false}
+timestamp=[2022-06-22 16:52:59], mode=BUILD, duration=0:00:00.353, duration_ms=353, data={name=Microblaze_GPIO_LED_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-22 17:30:55], mode=BUILD, duration=0:00:01.928, duration_ms=1928, data={name=Microblaze_GPIO_LED, configuration=Debug, clean_build=false}
+timestamp=[2022-06-22 17:30:56], mode=BUILD, duration=0:00:00.215, duration_ms=215, data={name=Microblaze_GPIO_LED_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-22 17:33:18], mode=BUILD, duration=0:00:01.938, duration_ms=1938, data={name=Microblaze_GPIO_LED, configuration=Debug, clean_build=false}
+timestamp=[2022-06-22 17:33:19], mode=BUILD, duration=0:00:00.185, duration_ms=185, data={name=Microblaze_GPIO_LED_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-22 17:34:40], mode=BUILD, duration=0:00:01.893, duration_ms=1893, data={name=Microblaze_GPIO_LED, configuration=Debug, clean_build=false}
+timestamp=[2022-06-22 17:34:41], mode=BUILD, duration=0:00:00.189, duration_ms=189, data={name=Microblaze_GPIO_LED_system, configuration=Debug, clean_build=false}
+timestamp=[2022-06-22 18:14:37], mode=BUILD, duration=0:00:01.516, duration_ms=1516, data={name=Microblaze_GPIO_LED, configuration=Debug, clean_build=false}
+timestamp=[2022-06-22 18:14:37], mode=BUILD, duration=0:00:00.127, duration_ms=127, data={name=Microblaze_GPIO_LED_system, configuration=Debug, clean_build=false}

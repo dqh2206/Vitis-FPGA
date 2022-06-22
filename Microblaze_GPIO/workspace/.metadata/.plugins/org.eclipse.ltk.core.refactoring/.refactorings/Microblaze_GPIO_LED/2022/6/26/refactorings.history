@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Microblaze_GPIO_LED/src/helloworld.c&apos; to &apos;Microblaze_GPIO_LED.c&apos;" description="Rename resource &apos;helloworld.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/helloworld.c" name="Microblaze_GPIO_LED.c" stamp="1655869812442" updateReferences="true"/>
+</session>
