@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Thu Jun 23 09:05:15 2022
+# Process ID: 37508
+# Current directory: C:/HLS_Design/Microblaze_GPIO_Interrupt/Microblaze_GPIO_Interrupt.runs/design_1_ilmb_v10_0_synth_1
+# Command line: vivado.exe -log design_1_ilmb_v10_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source design_1_ilmb_v10_0.tcl
+# Log file: C:/HLS_Design/Microblaze_GPIO_Interrupt/Microblaze_GPIO_Interrupt.runs/design_1_ilmb_v10_0_synth_1/design_1_ilmb_v10_0.vds
+# Journal file: C:/HLS_Design/Microblaze_GPIO_Interrupt/Microblaze_GPIO_Interrupt.runs/design_1_ilmb_v10_0_synth_1\vivado.jou
+# Running On: DESKTOP-ABLTD3Q, OS: Windows, CPU Frequency: 1992 MHz, CPU Physical cores: 4, Host memory: 8482 MB
+#-----------------------------------------------------------
+source design_1_ilmb_v10_0.tcl -notrace
+INFO: [IP_Flow 19-4838] Using cached IP synthesis design for IP design_1_ilmb_v10_0, cache-ID = 01f1318af3b404ee.
+INFO: [Common 17-206] Exiting Vivado at Thu Jun 23 09:05:25 2022...

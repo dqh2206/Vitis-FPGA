@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="Microblaze_GPIO_Interrupt_example_system-bitFile" value="${project_loc:Microblaze_GPIO_Interrupt_example}/_ide/bitstream/Microblaze_GPIO_Interrupt_design_1_wrapper.bit"/>
+	<item key="Microblaze_GPIO_Interrupt_example_system-bmmFile" value="${project_loc:Microblaze_GPIO_Interrupt_example}/_ide/bitstream/Microblaze_GPIO_Interrupt_design_1_wrapper.mmi"/>
+	<item key="Microblaze_GPIO_Interrupt_example_system-target" value="Local"/>
+	<item key="Microblaze_GPIO_Interrupt_example_system-device" value="Auto Detect"/>
+	<item key="Microblaze_GPIO_Interrupt_example_system-partial_bit" value="false"/>
+	<item key="Microblaze_GPIO_Interrupt_example_system-skip_rev_check" value="false"/>
+	<item key="programfpga.sdxproject" value="Microblaze_GPIO_Interrupt_example_system"/>
+	<item key="Microblaze_GPIO_Interrupt_example_system-microblaze_0-initElf" value="bootloop"/>
+	<item key="devices_info_Local" value="{&quot;cables&quot;:[{&quot;name&quot;:&quot;Digilent Nexys4 210274505522A&quot;,&quot;indexContextMap&quot;:{&quot;2&quot;:&quot;jsn-Nexys4-210274505522A-13631093-0&quot;}}]}"/>
+</section>

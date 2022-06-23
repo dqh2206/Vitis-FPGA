@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="Microblaze_GPIO_Interrupt_example" location="C:/HLS_Design/Microblaze_GPIO_Interrupt/workspace/Microblaze_GPIO_Interrupt_example" platform="C:/HLS_Design/Microblaze_GPIO_Interrupt/workspace/Microblaze_GPIO_Interrupt/export/Microblaze_GPIO_Interrupt/Microblaze_GPIO_Interrupt.xpfm" platformUID="xilinx:::0.0(custom)" systemProject="Microblaze_GPIO_Interrupt_example_system" sysConfig="Microblaze_GPIO_Interrupt" runtime="C/C++" cpu="standalone_domain" cpuInstance="microblaze_0" os="standalone" mssSignature="00512766ef770d36427c14e2737c3abd">
+  <configuration name="Debug" id="xilinx.gnu.mb.exe.debug.1672793628">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.mb.exe.release.1861629246" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>

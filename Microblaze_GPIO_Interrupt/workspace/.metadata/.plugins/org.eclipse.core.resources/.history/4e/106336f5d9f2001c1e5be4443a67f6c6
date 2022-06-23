@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ASCII"?>
+<systemproject:SystemProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdsproject="http://www.xilinx.com/sdsproject" xmlns:systemproject="http://www.xilinx.com/systemproject" name="Microblaze_GPIO_Interrupt_example_system" platform="C:/HLS_Design/Microblaze_GPIO_Interrupt/workspace/Microblaze_GPIO_Interrupt/export/Microblaze_GPIO_Interrupt/Microblaze_GPIO_Interrupt.xpfm" platformUID="xilinx:::0.0(custom)" sysConfig="Microblaze_GPIO_Interrupt" runtime="C/C++" rootFSLocation="" linuxImage="" sysroot="">
+  <configuration name="Debug" id="com.xilinx.sdx.system.managedbuilder.debugConfiguration.957626395">
+    <configBuildOptions xsi:type="systemproject:SystemOptions">
+      <applications name="Microblaze_GPIO_Interrupt_example" domainName="standalone_domain" domainPrettyName="standalone on microblaze_0" appBuildConfig="Debug"/>
+      <options xsi:type="sdsproject:Option" gensdcard="true" dmclkid="0"/>
+    </configBuildOptions>
+    <lastBuildOptions xsi:type="systemproject:SystemOptions">
+      <applications name="Microblaze_GPIO_Interrupt_example" domainName="standalone_domain" domainPrettyName="standalone on microblaze_0" appBuildConfig="Debug"/>
+      <options xsi:type="sdsproject:Option" gensdcard="true" dmclkid="0"/>
+    </lastBuildOptions>
+  </configuration>
+  <configuration name="Release" id="com.xilinx.sdx.system.managedbuilder.releaseConfiguration.310801701">
+    <configBuildOptions xsi:type="systemproject:SystemOptions">
+      <applications name="Microblaze_GPIO_Interrupt_example" domainName="standalone_domain" domainPrettyName="standalone on microblaze_0" appBuildConfig="Release"/>
+      <options xsi:type="sdsproject:Option" gensdcard="true" dmclkid="0"/>
+    </configBuildOptions>
+  </configuration>
+</systemproject:SystemProject>
