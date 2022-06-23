@@ -1,0 +1,2 @@
+# Microblaze UARTlite
+The project used AXI-GPIO IP core and Microblaze soft microprocessor to interface with switch 0 and LED 0 on Digilent Nexys 4 kit. The UARTLite IP core is included for debugging. 
