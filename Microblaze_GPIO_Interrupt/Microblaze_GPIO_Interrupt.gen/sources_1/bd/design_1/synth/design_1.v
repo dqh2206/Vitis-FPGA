@@ -1,7 +1,7 @@
 //Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
 //--------------------------------------------------------------------------------
 //Tool Version: Vivado v.2022.1 (win64) Build 3526262 Mon Apr 18 15:48:16 MDT 2022
-//Date        : Thu Jun 23 08:41:09 2022
+//Date        : Fri Jul  1 18:26:21 2022
 //Host        : DESKTOP-ABLTD3Q running 64-bit major release  (build 9200)
 //Command     : generate_target design_1.bd
 //Design      : design_1
@@ -9,7 +9,7 @@
 //--------------------------------------------------------------------------------
 `timescale 1 ps / 1 ps
 
-(* CORE_GENERATION_INFO = "design_1,IP_Integrator,{x_ipVendor=xilinx.com,x_ipLibrary=BlockDiagram,x_ipName=design_1,x_ipVersion=1.00.a,x_ipLanguage=VERILOG,numBlks=22,numReposBlks=14,numNonXlnxBlks=0,numHierBlks=8,maxHierDepth=1,numSysgenBlks=0,numHlsBlks=0,numHdlrefBlks=0,numPkgbdBlks=0,bdsource=USER,da_axi4_cnt=3,da_board_cnt=5,da_mb_cnt=1,synth_mode=OOC_per_IP}" *) (* HW_HANDOFF = "design_1.hwdef" *) 
+(* CORE_GENERATION_INFO = "design_1,IP_Integrator,{x_ipVendor=xilinx.com,x_ipLibrary=BlockDiagram,x_ipName=design_1,x_ipVersion=1.00.a,x_ipLanguage=VERILOG,numBlks=23,numReposBlks=15,numNonXlnxBlks=0,numHierBlks=8,maxHierDepth=1,numSysgenBlks=0,numHlsBlks=0,numHdlrefBlks=0,numPkgbdBlks=0,bdsource=USER,da_axi4_cnt=3,da_board_cnt=5,da_mb_cnt=1,synth_mode=OOC_per_IP}" *) (* HW_HANDOFF = "design_1.hwdef" *) 
 module design_1
    (clk,
     led_0_tri_o,
@@ -19,16 +19,17 @@ module design_1
     usb_uart_rxd,
     usb_uart_txd);
   (* X_INTERFACE_INFO = "xilinx.com:signal:clock:1.0 CLK.CLK CLK" *) (* X_INTERFACE_PARAMETER = "XIL_INTERFACENAME CLK.CLK, CLK_DOMAIN design_1_clk_100MHz, FREQ_HZ 100000000, FREQ_TOLERANCE_HZ 0, INSERT_VIP 0, PHASE 0.0" *) input clk;
-  (* X_INTERFACE_INFO = "xilinx.com:interface:gpio:1.0 led_0 " *) output [0:0]led_0_tri_o;
+  (* X_INTERFACE_INFO = "xilinx.com:interface:gpio:1.0 led_0 TRI_O" *) output [0:0]led_0_tri_o;
   output led_1;
   (* X_INTERFACE_INFO = "xilinx.com:signal:reset:1.0 RST.RESET RST" *) (* X_INTERFACE_PARAMETER = "XIL_INTERFACENAME RST.RESET, INSERT_VIP 0, POLARITY ACTIVE_LOW" *) input reset;
-  (* X_INTERFACE_INFO = "xilinx.com:interface:gpio:1.0 sw " *) input [0:0]sw_tri_i;
-  (* X_INTERFACE_INFO = "xilinx.com:interface:uart:1.0 usb_uart " *) input usb_uart_rxd;
-  (* X_INTERFACE_INFO = "xilinx.com:interface:uart:1.0 usb_uart " *) output usb_uart_txd;
+  (* X_INTERFACE_INFO = "xilinx.com:interface:gpio:1.0 sw TRI_I" *) input [0:0]sw_tri_i;
+  (* X_INTERFACE_INFO = "xilinx.com:interface:uart:1.0 usb_uart RxD" *) input usb_uart_rxd;
+  (* X_INTERFACE_INFO = "xilinx.com:interface:uart:1.0 usb_uart TxD" *) output usb_uart_txd;
 
   wire [0:0]axi_gpio_0_GPIO2_TRI_O;
   wire [0:0]axi_gpio_0_GPIO_TRI_I;
   wire axi_gpio_0_ip2intc_irpt;
+  wire axi_timer_0_interrupt;
   wire axi_timer_0_pwm0;
   wire axi_uartlite_0_UART_RxD;
   wire axi_uartlite_0_UART_TxD;
@@ -175,6 +176,7 @@ module design_1
   wire [0:0]rst_clk_wiz_1_100M_bus_struct_reset;
   wire rst_clk_wiz_1_100M_mb_reset;
   wire [0:0]rst_clk_wiz_1_100M_peripheral_aresetn;
+  wire [1:0]xlconcat_0_dout;
 
   assign axi_gpio_0_GPIO_TRI_I = sw_tri_i[0];
   assign axi_uartlite_0_UART_RxD = usb_uart_rxd;
@@ -210,6 +212,7 @@ module design_1
        (.capturetrig0(1'b0),
         .capturetrig1(1'b0),
         .freeze(1'b0),
+        .interrupt(axi_timer_0_interrupt),
         .pwm0(axi_timer_0_pwm0),
         .s_axi_aclk(microblaze_0_Clk),
         .s_axi_araddr(microblaze_0_axi_periph_M03_AXI_ARADDR[4:0]),
@@ -343,7 +346,7 @@ module design_1
         .Write_Strobe(microblaze_0_dlmb_1_WRITESTROBE));
   design_1_microblaze_0_axi_intc_0 microblaze_0_axi_intc
        (.interrupt_address(microblaze_0_interrupt_ADDRESS),
-        .intr(axi_gpio_0_ip2intc_irpt),
+        .intr(xlconcat_0_dout),
         .irq(microblaze_0_interrupt_INTERRUPT),
         .processor_ack({microblaze_0_interrupt_ACK[0],microblaze_0_interrupt_ACK[1]}),
         .processor_clk(microblaze_0_Clk),
@@ -517,6 +520,10 @@ module design_1
         .mb_reset(rst_clk_wiz_1_100M_mb_reset),
         .peripheral_aresetn(rst_clk_wiz_1_100M_peripheral_aresetn),
         .slowest_sync_clk(microblaze_0_Clk));
+  design_1_xlconcat_0_0 xlconcat_0
+       (.In0(axi_gpio_0_ip2intc_irpt),
+        .In1(axi_timer_0_interrupt),
+        .dout(xlconcat_0_dout));
 endmodule
 
 module design_1_microblaze_0_axi_periph_0

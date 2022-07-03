@@ -55,10 +55,15 @@
 #include "xintc.h"
 #include "xil_exception.h"
 #include "xstatus.h"
+#include "xtmrctr.h"
+#include "xil_exception.h"
+
+#define MAX_DUTY_CYCLE 100
 
 // Driver definition
 	XIntc Intc; // Instance of Interrupt controller
 	XGpio GPIO_0; // Instance of GPIO 0 driver
+	XTmrCtr TimerCounterInst;  // The instance of the Timer Counter
 
 //Function declaration
 void GPIO_Init()
@@ -131,6 +136,28 @@ int Interrupt_Init()
 	return stat;
 }
 
+int Timer_PWM_Init()
+{
+	int Status;
+	u8 duty_cycle;
+	/* Init the Timer driver */
+	Status = XTmrCtr_Initialize(&TimerCounterInst, XPAR_AXI_TIMER_0_DEVICE_ID);
+	if (Status != XST_SUCCESS) {
+		xil_printf("Timer/Counter PWM Failed.\r\n");
+			return XST_FAILURE;
+	}
+	xil_printf("Successfully ran Timer PWM mode.\r\n");
+	XTmrCtr_SetOptions(&TimerCounterInst,0,XTC_ENABLE_ALL_OPTION);
+	XTmrCtr_SetOptions(&TimerCounterInst,1,XTC_ENABLE_ALL_OPTION);
+	/* Start Timer PWM */
+	duty_cycle = XTmrCtr_PwmConfigure(&TimerCounterInst,(u32)10000000000, (u32)5000000000);
+	XTmrCtr_PwmEnable(&TimerCounterInst);
+	XTmrCtr_Start(&TimerCounterInst,0);
+	XTmrCtr_Start(&TimerCounterInst,1);
+	xil_printf("Successfully generate PWM signal with duty cycle = %u.\r\n",duty_cycle);
+	return XST_SUCCESS;
+}
+
 // main function
 int main()
 {
@@ -138,9 +165,10 @@ int main()
     print("Microblaze GPIO Interrupt is running ...\n\r");
     GPIO_Init();
     Interrupt_Init();
+    Timer_PWM_Init();
     while(1) // infinite loop
     {
-    	for(;;);
+
     }
     cleanup_platform();
     return 0;

@@ -1,4 +1,4 @@
-set_property SRC_FILE_INFO {cfile:{C:/HLS_Design/Microblaze_GPIO_Interrupt/Microblaze_GPIO_Interrupt.srcs/constrs_1/imports/HLS_Design/Nexys 4.xdc} rfile:{../../../Microblaze_GPIO_Interrupt.srcs/constrs_1/imports/HLS_Design/Nexys 4.xdc} id:1} [current_design]
+set_property SRC_FILE_INFO {cfile:{C:/HLS_Design/Vitis-FPGA/Microblaze_GPIO_Interrupt/Microblaze_GPIO_Interrupt.srcs/constrs_1/imports/HLS_Design/Nexys 4.xdc} rfile:{../../../Microblaze_GPIO_Interrupt.srcs/constrs_1/imports/HLS_Design/Nexys 4.xdc} id:1} [current_design]
 set_property src_info {type:XDC file:1 line:8 export:INPUT save:INPUT read:READ} [current_design]
 set_property PACKAGE_PIN E3 [get_ports clk]
 set_property src_info {type:XDC file:1 line:14 export:INPUT save:INPUT read:READ} [current_design]

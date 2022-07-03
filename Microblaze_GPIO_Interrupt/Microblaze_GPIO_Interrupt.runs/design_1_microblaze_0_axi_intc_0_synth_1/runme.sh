@@ -24,7 +24,7 @@ else
 fi
 export LD_LIBRARY_PATH
 
-HD_PWD='C:/HLS_Design/Microblaze_GPIO_Interrupt/Microblaze_GPIO_Interrupt.runs/design_1_microblaze_0_axi_intc_0_synth_1'
+HD_PWD='C:/HLS_Design/Vitis-FPGA/Microblaze_GPIO_Interrupt/Microblaze_GPIO_Interrupt.runs/design_1_microblaze_0_axi_intc_0_synth_1'
 cd "$HD_PWD"
 
 HD_LOG=runme.log

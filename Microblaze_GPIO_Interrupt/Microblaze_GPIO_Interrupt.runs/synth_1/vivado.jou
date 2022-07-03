@@ -2,12 +2,12 @@
 # Vivado v2022.1 (64-bit)
 # SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
 # IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
-# Start of session at: Thu Jun 23 09:13:44 2022
-# Process ID: 35200
-# Current directory: C:/HLS_Design/Microblaze_GPIO_Interrupt/Microblaze_GPIO_Interrupt.runs/synth_1
+# Start of session at: Fri Jul  1 18:29:20 2022
+# Process ID: 1416
+# Current directory: C:/HLS_Design/Vitis-FPGA/Microblaze_GPIO_Interrupt/Microblaze_GPIO_Interrupt.runs/synth_1
 # Command line: vivado.exe -log design_1_wrapper.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source design_1_wrapper.tcl
-# Log file: C:/HLS_Design/Microblaze_GPIO_Interrupt/Microblaze_GPIO_Interrupt.runs/synth_1/design_1_wrapper.vds
-# Journal file: C:/HLS_Design/Microblaze_GPIO_Interrupt/Microblaze_GPIO_Interrupt.runs/synth_1\vivado.jou
+# Log file: C:/HLS_Design/Vitis-FPGA/Microblaze_GPIO_Interrupt/Microblaze_GPIO_Interrupt.runs/synth_1/design_1_wrapper.vds
+# Journal file: C:/HLS_Design/Vitis-FPGA/Microblaze_GPIO_Interrupt/Microblaze_GPIO_Interrupt.runs/synth_1\vivado.jou
 # Running On: DESKTOP-ABLTD3Q, OS: Windows, CPU Frequency: 1992 MHz, CPU Physical cores: 4, Host memory: 8482 MB
 #-----------------------------------------------------------
 source design_1_wrapper.tcl -notrace

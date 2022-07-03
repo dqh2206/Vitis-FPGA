@@ -16,3 +16,7 @@ platform write
 platform generate -domains 
 platform active {Microblaze_GPIO_Interrupt}
 platform generate
+platform active {Microblaze_GPIO_Interrupt}
+platform config -updatehw {C:/HLS_Design/Microblaze_GPIO_Interrupt/Microblaze_GPIO_Interrupt_design_1_wrapper.xsa}
+platform config -updatehw {C:/HLS_Design/Vitis-FPGA/Microblaze_GPIO_Interrupt/Microblaze_GPIO_Interrupt_design_1_wrapper.xsa}
+platform generate
