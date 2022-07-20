@@ -407,3 +407,45 @@ Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.]. Thread: Worker-79: Launc
 
 !ENTRY com.xilinx.sdk.utils 0 0 2022-07-03 22:12:11.153
 !MESSAGE XSCT command with result: [disconnect tcfchan#6], Result: [null, ]. Thread: Thread-556
+!SESSION 2022-07-08 16:03:50.417 -----------------------------------------------
+eclipse.buildId=2021.2
+java.version=11.0.11
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.ui 4 4 2022-07-08 16:05:14.860
+!MESSAGE Plug-in 'org.eclipse.ui.editors' contributed an invalid Menu Extension (Path: 'navigate' is invalid): org.eclipse.ui.edit.text.gotoLastEditPosition
+
+!ENTRY com.xilinx.sdk.utils 0 0 2022-07-08 16:05:41.965
+!MESSAGE XSCT Command: [set sdk::sdk_chan tcfchan#0], Thread: Thread-22
+
+!ENTRY com.xilinx.sdk.utils 0 0 2022-07-08 16:05:41.966
+!MESSAGE XSCT Command: [plnx-install-path  ; ::scw::scw_mode gui], Thread: Thread-13
+
+!ENTRY com.xilinx.sdk.utils 0 0 2022-07-08 16:05:41.971
+!MESSAGE XSCT command with result: [set sdk::sdk_chan tcfchan#0], Result: [null, tcfchan#0]. Thread: Thread-22
+
+!ENTRY com.xilinx.sdk.utils 0 0 2022-07-08 16:05:41.979
+!MESSAGE XSCT command with result: [plnx-install-path  ; ::scw::scw_mode gui], Result: [null, ]. Thread: Thread-13
+
+!ENTRY com.xilinx.sdk.utils 0 0 2022-07-08 16:05:41.980
+!MESSAGE XSCT Command: [setws C:/HLS_Design/Vitis-FPGA/Microblaze_GPIO_Interrupt/workspace], Thread: Thread-22
+
+!ENTRY com.xilinx.sdk.utils 0 0 2022-07-08 16:05:41.982
+!MESSAGE XSCT command with result: [setws C:/HLS_Design/Vitis-FPGA/Microblaze_GPIO_Interrupt/workspace], Result: [null, ]. Thread: Thread-22
+
+!ENTRY com.xilinx.sdk.utils 0 0 2022-07-08 16:05:44.521
+!MESSAGE XSCT Command: [::hsi::utils::init_repo], Thread: Worker-1: Initializing s/w repositories
+
+!ENTRY org.eclipse.launchbar.core 2 0 2022-07-08 16:05:54.737
+!MESSAGE Enablement expression is missing for descriptor type org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2022-07-08 16:05:54.738
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2022-07-08 16:05:54.738
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.core.jobs 2 2 2022-07-08 16:06:21.112
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: com.xilinx.ide.tools.startup.ToolInit$5

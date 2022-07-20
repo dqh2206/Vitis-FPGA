@@ -109,3 +109,6 @@ timestamp=[2022-07-03 21:20:14], mode=BUILD, duration=0:00:00.121, duration_ms=1
 timestamp=[2022-07-03 21:23:06], mode=BUILD, duration=0:00:00.353, duration_ms=353, data={name=Microblaze_GPIO_Interrupt_example, configuration=Debug, clean_build=false}
 timestamp=[2022-07-03 21:43:24], mode=BUILD, duration=0:00:01.142, duration_ms=1142, data={name=Microblaze_GPIO_Interrupt_example, configuration=Debug, clean_build=false}
 timestamp=[2022-07-03 21:43:25], mode=BUILD, duration=0:00:00.184, duration_ms=184, data={name=Microblaze_GPIO_Interrupt_example_system, configuration=Debug, clean_build=false}
+timestamp=[2022-07-08 16:05:41], mode=WORKBENCH_START, duration=0:00:36.071, duration_ms=36071, data={}
+timestamp=[2022-07-08 16:05:44], mode=WORKBENCH_UI_INIT, duration=0:00:02.557, duration_ms=2557, data={editors_count=8, platform_editors_count=7, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=Microblaze_GPIO_Interrupt,Microblaze_GPIO_Interrupt_example,Microblaze_GPIO_Interrupt_example_system,RemoteSystemsTempFiles}
+timestamp=[2022-07-08 16:06:15], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:31.059, duration_ms=31059, data={}

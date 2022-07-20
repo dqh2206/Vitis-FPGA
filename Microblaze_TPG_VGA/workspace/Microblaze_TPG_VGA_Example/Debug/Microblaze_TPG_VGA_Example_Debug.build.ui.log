@@ -1,0 +1,21 @@
+2022-07-20T18:50:08.212812600255-18:50:08 **** Incremental Build of configuration Debug for project Microblaze_TPG_VGA_Example ****
+000-make all 
+000-'Building file: ../src/Microblaze_TPG_VGA.c'
+000-'Invoking: MicroBlaze gcc compiler'
+000-mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/Microblaze_TPG_VGA.o" -ID:/Xilinx/FPGA_Project/Microblaze_TPG_VGA/workspace/Microblaze_TPG_VGA_System/export/Microblaze_TPG_VGA_System/sw/Microblaze_TPG_VGA_System/standalone_domain/bspinclude/include -mno-xl-reorder -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mcpu=v11.0 -mno-xl-soft-mul -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/Microblaze_TPG_VGA.d" -MT"src/Microblaze_TPG_VGA.o" -o "src/Microblaze_TPG_VGA.o" "../src/Microblaze_TPG_VGA.c"
+000-'Finished building: ../src/Microblaze_TPG_VGA.c'
+000-' '
+000-'Building target: Microblaze_TPG_VGA_Example.elf'
+000-'Invoking: MicroBlaze gcc linker'
+000-mb-gcc -Wl,-T -Wl,../src/lscript.ld -LD:/Xilinx/FPGA_Project/Microblaze_TPG_VGA/workspace/Microblaze_TPG_VGA_System/export/Microblaze_TPG_VGA_System/sw/Microblaze_TPG_VGA_System/standalone_domain/bsplib/lib -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mcpu=v11.0 -mno-xl-soft-mul -Wl,--no-relax -Wl,--gc-sections -o "Microblaze_TPG_VGA_Example.elf"  ./src/Microblaze_TPG_VGA.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+000-'Finished building target: Microblaze_TPG_VGA_Example.elf'
+000-' '
+000-'Invoking: MicroBlaze Print Size'
+000-mb-size Microblaze_TPG_VGA_Example.elf  |tee "Microblaze_TPG_VGA_Example.elf.size"
+000-   text	   data	    bss	    dec	    hex	filename
+000-   9452	    672	   3116	  13240	   33b8	Microblaze_TPG_VGA_Example.elf
+000-'Finished building: Microblaze_TPG_VGA_Example.elf.size'
+000-' '
+00255-
+18:50:11 Build Finished (took 2s.868ms)
+

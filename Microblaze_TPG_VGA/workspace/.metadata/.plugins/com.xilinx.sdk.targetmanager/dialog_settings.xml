@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="_ide/bitstream/Microblaze_TPG_VGA_design_1_wrapper.bit" key="Microblaze_TPG_VGA_Example-bitFile"/>
+	<item value="false" key="Microblaze_TPG_VGA_Example-partial_bit"/>
+	<item value="false" key="Microblaze_TPG_VGA_Example-skip_rev_check"/>
+	<item value="bootloop" key="Microblaze_TPG_VGA_Example-microblaze_0-initElf"/>
+	<item value="_ide/bitstream/Microblaze_TPG_VGA_design_1_wrapper.mmi" key="Microblaze_TPG_VGA_Example-bmmFile"/>
+	<item value="Microblaze_TPG_VGA_Example" key="programfpga.sdxproject"/>
+	<item value="Auto Detect" key="Microblaze_TPG_VGA_Example-device"/>
+	<item value="Local" key="Microblaze_TPG_VGA_Example-target"/>
+</section>

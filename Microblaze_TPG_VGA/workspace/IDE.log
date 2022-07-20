@@ -1,0 +1,52 @@
+18:42:47 INFO  : Launching XSCT server: xsct.bat -n  -interactive D:\Xilinx\FPGA_Project\Microblaze_TPG_VGA\workspace\temp_xsdb_launch_script.tcl
+18:42:58 INFO  : XSCT server has started successfully.
+18:42:58 INFO  : plnx-install-location is set to ''
+18:43:20 INFO  : Registering command handlers for Vitis TCF services
+18:43:22 INFO  : Successfully done setting XSCT server connection channel  
+18:43:22 INFO  : Successfully done query RDI_DATADIR 
+18:43:22 INFO  : Successfully done setting workspace for the tool. 
+18:44:11 INFO  : Successfully done sdx_reload_mss "D:/Xilinx/FPGA_Project/Microblaze_TPG_VGA/workspace/Microblaze_TPG_VGA_System/microblaze_0/standalone_domain/bsp/system.mss"
+18:48:38 INFO  : Checking for BSP changes to sync application flags for project 'Microblaze_TPG_VGA_Example'...
+18:49:27 INFO  : Bit file 'D:/Xilinx/FPGA_Project/Microblaze_TPG_VGA/workspace/Microblaze_TPG_VGA_Example/_ide/bitstream/download.bit' is generated.
+18:49:41 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:49:43 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys4 210274505522A" && level==0} -index 0' command is executed.
+18:49:45 INFO  : FPGA configured successfully with bitstream "D:/Xilinx/FPGA_Project/Microblaze_TPG_VGA/workspace/Microblaze_TPG_VGA_Example/_ide/bitstream/download.bit"
+18:50:08 INFO  : Checking for BSP changes to sync application flags for project 'Microblaze_TPG_VGA_Example'...
+18:50:33 INFO  : Bit file 'D:/Xilinx/FPGA_Project/Microblaze_TPG_VGA/workspace/Microblaze_TPG_VGA_Example/_ide/bitstream/download.bit' is generated.
+18:50:33 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:50:33 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys4 210274505522A" && level==0} -index 0' command is executed.
+18:50:35 INFO  : FPGA configured successfully with bitstream "D:/Xilinx/FPGA_Project/Microblaze_TPG_VGA/workspace/Microblaze_TPG_VGA_Example/_ide/bitstream/download.bit"
+18:50:43 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:50:43 INFO  : Jtag cable 'Digilent Nexys4 210274505522A' is selected.
+18:50:43 INFO  : 'jtag frequency' command is executed.
+18:50:43 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys4 210274505522A" && level==0} -index 0' command is executed.
+18:50:45 INFO  : FPGA configured successfully with bitstream "D:/Xilinx/FPGA_Project/Microblaze_TPG_VGA/workspace/Microblaze_TPG_VGA_Example/_ide/bitstream/download.bit"
+18:50:45 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+18:50:45 INFO  : Context for processor 'microblaze_0' is selected.
+18:50:45 INFO  : System reset is completed.
+18:50:48 INFO  : 'after 3000' command is executed.
+18:50:48 INFO  : Context for processor 'microblaze_0' is selected.
+18:50:49 INFO  : The application 'D:/Xilinx/FPGA_Project/Microblaze_TPG_VGA/workspace/Microblaze_TPG_VGA_Example/Debug/Microblaze_TPG_VGA_Example.elf' is downloaded to processor 'microblaze_0'.
+18:50:49 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "Digilent Nexys4 210274505522A" && level==0} -index 0
+fpga -file D:/Xilinx/FPGA_Project/Microblaze_TPG_VGA/workspace/Microblaze_TPG_VGA_Example/_ide/bitstream/download.bit
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow D:/Xilinx/FPGA_Project/Microblaze_TPG_VGA/workspace/Microblaze_TPG_VGA_Example/Debug/Microblaze_TPG_VGA_Example.elf
+----------------End of Script----------------
+
+18:50:50 INFO  : Memory regions updated for context MicroBlaze #0
+18:50:50 INFO  : Memory regions updated for context MicroBlaze #0
+18:50:50 INFO  : Context for processor 'microblaze_0' is selected.
+18:50:50 INFO  : 'con' command is executed.
+18:50:50 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+18:50:50 INFO  : Launch script is exported to file 'D:\Xilinx\FPGA_Project\Microblaze_TPG_VGA\workspace\.sdk\launch_scripts\single_application_debug\systemdebugger_microblaze_tpg_vga_example_system_standalone.tcl'
+18:51:19 INFO  : Disconnected from the channel tcfchan#2.

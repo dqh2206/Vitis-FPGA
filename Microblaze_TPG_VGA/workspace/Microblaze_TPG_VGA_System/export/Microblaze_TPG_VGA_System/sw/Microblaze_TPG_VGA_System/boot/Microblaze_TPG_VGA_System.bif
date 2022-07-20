@@ -1,0 +1,6 @@
+/*Microblaze_TPG_VGA_System*/
+the_ROM_image:
+{
+   <bitstream> 
+   <elf> 
+}
