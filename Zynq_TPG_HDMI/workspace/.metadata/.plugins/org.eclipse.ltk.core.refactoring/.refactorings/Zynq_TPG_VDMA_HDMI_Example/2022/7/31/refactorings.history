@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Zynq_TPG_VDMA_HDMI_Example/src/helloworld.c&apos; to &apos;Zynq_TPG_VDMA_HDMI.c&apos;" description="Rename resource &apos;helloworld.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/helloworld.c" name="Zynq_TPG_VDMA_HDMI.c" stamp="1659030846943" updateReferences="true"/>
+</session>

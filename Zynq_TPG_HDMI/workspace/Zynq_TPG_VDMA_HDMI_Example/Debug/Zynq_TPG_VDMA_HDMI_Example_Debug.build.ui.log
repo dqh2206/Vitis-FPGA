@@ -1,0 +1,25 @@
+2022-07-30T13:45:48.861215900255-13:45:48 **** Incremental Build of configuration Debug for project Zynq_TPG_VDMA_HDMI_Example ****
+000-make all 
+000-make --no-print-directory pre-build
+000-a9-linaro-pre-build-step
+000-' '
+000-make --no-print-directory main-build
+000-'Building file: ../src/Zynq_TPG_VDMA_HDMI.c'
+000-'Invoking: ARM v7 gcc compiler'
+000-arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/Zynq_TPG_VDMA_HDMI.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -ID:/Xilinx/FPGA_Project/Zynq_TPG_HDMI/workspace/Zynq_TPG_VDMA_HDMI_System/export/Zynq_TPG_VDMA_HDMI_System/sw/Zynq_TPG_VDMA_HDMI_System/standalone_domain/bspinclude/include -MMD -MP -MF"src/Zynq_TPG_VDMA_HDMI.d" -MT"src/Zynq_TPG_VDMA_HDMI.o" -o "src/Zynq_TPG_VDMA_HDMI.o" "../src/Zynq_TPG_VDMA_HDMI.c"
+000-'Finished building: ../src/Zynq_TPG_VDMA_HDMI.c'
+000-' '
+000-'Building target: Zynq_TPG_VDMA_HDMI_Example.elf'
+000-'Invoking: ARM v7 gcc linker'
+000-arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -LD:/Xilinx/FPGA_Project/Zynq_TPG_HDMI/workspace/Zynq_TPG_VDMA_HDMI_System/export/Zynq_TPG_VDMA_HDMI_System/sw/Zynq_TPG_VDMA_HDMI_System/standalone_domain/bsplib/lib -o "Zynq_TPG_VDMA_HDMI_Example.elf"  ./src/Zynq_TPG_VDMA_HDMI.o ./src/platform.o ./src/vdma_api.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+000-'Finished building target: Zynq_TPG_VDMA_HDMI_Example.elf'
+000-' '
+000-'Invoking: ARM v7 Print Size'
+000-arm-none-eabi-size Zynq_TPG_VDMA_HDMI_Example.elf  |tee "Zynq_TPG_VDMA_HDMI_Example.elf.size"
+000-   text	   data	    bss	    dec	    hex	filename
+000-  49676	   1712	  23656	  75044	  12524	Zynq_TPG_VDMA_HDMI_Example.elf
+000-'Finished building: Zynq_TPG_VDMA_HDMI_Example.elf.size'
+000-' '
+00255-
+13:45:54 Build Finished (took 5s.345ms)
+

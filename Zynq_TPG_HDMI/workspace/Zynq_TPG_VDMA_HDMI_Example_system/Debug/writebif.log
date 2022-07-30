@@ -1,0 +1,18 @@
+TRACE::2022-07-30.13:44:19::SCWBifWriter::Found the complete platform D:/Xilinx/FPGA_Project/Zynq_TPG_HDMI/workspace/Zynq_TPG_VDMA_HDMI_System/export/Zynq_TPG_VDMA_HDMI_System/Zynq_TPG_VDMA_HDMI_System.xpfm
+TRACE::2022-07-30.13:44:19::SCWBifWriter::hardware databse : design_1_wrapper
+TRACE::2022-07-30.13:44:19::SCWBifWriter::bitstream found in the design
+TRACE::2022-07-30.13:44:19::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2022-07-30.13:44:19::SCWBifWriter::proc type : 
+TRACE::2022-07-30.13:44:19::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2022-07-30.13:44:19::SCWBifWriter::Device type is : zynq
+TRACE::2022-07-30.13:44:19::SCWBifWriter::Writing BIF to file : D:/Xilinx/FPGA_Project/Zynq_TPG_HDMI/workspace/Zynq_TPG_VDMA_HDMI_Example_system/Debug/system.bif
+TRACE::2022-07-30.13:44:19::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2022-07-30.13:45:58::SCWBifWriter::Found the complete platform D:/Xilinx/FPGA_Project/Zynq_TPG_HDMI/workspace/Zynq_TPG_VDMA_HDMI_System/export/Zynq_TPG_VDMA_HDMI_System/Zynq_TPG_VDMA_HDMI_System.xpfm
+TRACE::2022-07-30.13:45:58::SCWBifWriter::hardware databse : design_1_wrapper
+TRACE::2022-07-30.13:45:58::SCWBifWriter::bitstream found in the design
+TRACE::2022-07-30.13:45:58::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2022-07-30.13:45:58::SCWBifWriter::proc type : 
+TRACE::2022-07-30.13:45:58::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2022-07-30.13:45:58::SCWBifWriter::Device type is : zynq
+TRACE::2022-07-30.13:45:58::SCWBifWriter::Writing BIF to file : D:/Xilinx/FPGA_Project/Zynq_TPG_HDMI/workspace/Zynq_TPG_VDMA_HDMI_Example_system/Debug/system.bif
+TRACE::2022-07-30.13:45:58::SCWBifWriter::Writing the Zynq Baremetal bif 

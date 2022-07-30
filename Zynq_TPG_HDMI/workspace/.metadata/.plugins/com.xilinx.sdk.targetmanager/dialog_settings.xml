@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="" key="Zynq_TPG_VDMA_HDMI_Example-bmmFile"/>
+	<item value="false" key="Zynq_TPG_VDMA_HDMI_Example-partial_bit"/>
+	<item value="false" key="Zynq_TPG_VDMA_HDMI_Example-skip_rev_check"/>
+	<item value="Auto Detect" key="Zynq_TPG_VDMA_HDMI_Example-device"/>
+	<item value="Zynq_TPG_VDMA_HDMI_Example" key="programfpga.sdxproject"/>
+	<item value="_ide/bitstream/Zynq_TPG_HDMI_design_1_wrapper.bit" key="Zynq_TPG_VDMA_HDMI_Example-bitFile"/>
+	<item value="Local" key="Zynq_TPG_VDMA_HDMI_Example-target"/>
+</section>

@@ -1,0 +1,7 @@
+timestamp=[2022-07-29 00:47:29], mode=WORKBENCH_START, duration=0:00:31.393, duration_ms=31393, data={}
+timestamp=[2022-07-29 00:47:33], mode=WORKBENCH_UI_INIT, duration=0:00:03.844, duration_ms=3844, data={editors_count=0, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2022-07-29 00:50:17], mode=PLATFORM_CREATION, duration=0:01:02.133, duration_ms=62133, data={platform_source=dsa, os=standalone, processor=ps7_cortexa9, platform=null}
+timestamp=[2022-07-29 00:52:41], mode=PLATFORM_GENERATION, duration=0:02:05.037, duration_ms=125037, data={name=Zynq_TPG_VDMA_HDMI_System}
+timestamp=[2022-07-29 00:53:38], mode=APP_CREATION, duration=0:00:18.120, duration_ms=18120, data={name=Zynq_TPG_VDMA_HDMI_Example, project_type=sdk, os=standalone, processor=cortex-a9, runtime=C/C++, platform=Zynq_TPG_VDMA_HDMI_System, application_type=application}
+timestamp=[2022-07-30 11:28:49], mode=WORKBENCH_START, duration=0:01:11.978, duration_ms=71978, data={}
+timestamp=[2022-07-30 11:28:55], mode=WORKBENCH_UI_INIT, duration=0:00:05.318, duration_ms=5318, data={editors_count=2, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,Zynq_TPG_VDMA_HDMI_Example,Zynq_TPG_VDMA_HDMI_Example_system,Zynq_TPG_VDMA_HDMI_System}

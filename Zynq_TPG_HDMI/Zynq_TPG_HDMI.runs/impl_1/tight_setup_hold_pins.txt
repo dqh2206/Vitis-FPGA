@@ -1,0 +1,10 @@
++--------------------------+--------------------------+----------------------------------------------------------------------------------------------------------+
+|       Launch Clock       |      Capture Clock       |                                                 Pin                                                      |
++--------------------------+--------------------------+----------------------------------------------------------------------------------------------------------+
+| clk_out1_design_1_clk_wiz_0_0 |clk_out1_design_1_clk_wiz_0_0 |            design_1_i/v_tpg_0/inst/tpgBackground_U0/grp_tpgPatternCrossHatch_fu_612/xCount_V_1_0_reg[9]/D|
+| clk_out1_design_1_clk_wiz_0_0 |clk_out1_design_1_clk_wiz_0_0 |            design_1_i/v_tpg_0/inst/tpgBackground_U0/grp_tpgPatternCrossHatch_fu_612/xCount_V_1_0_reg[5]/D|
+| clk_out1_design_1_clk_wiz_0_0 |clk_out1_design_1_clk_wiz_0_0 |            design_1_i/v_tpg_0/inst/tpgBackground_U0/grp_tpgPatternCrossHatch_fu_612/xCount_V_1_0_reg[7]/D|
+| clk_out1_design_1_clk_wiz_0_0 |clk_out1_design_1_clk_wiz_0_0 |            design_1_i/v_tpg_0/inst/tpgBackground_U0/grp_tpgPatternCrossHatch_fu_612/xCount_V_1_0_reg[8]/D|
+| clk_out1_design_1_clk_wiz_0_0 |clk_out1_design_1_clk_wiz_0_0 |            design_1_i/v_tpg_0/inst/tpgBackground_U0/grp_tpgPatternCrossHatch_fu_612/xCount_V_1_0_reg[6]/D|
+| clk_out1_design_1_clk_wiz_0_0 |clk_out1_design_1_clk_wiz_0_0 |            design_1_i/v_tpg_0/inst/tpgBackground_U0/grp_tpgPatternCrossHatch_fu_612/xCount_V_1_0_reg[3]/D|
++--------------------------+--------------------------+----------------------------------------------------------------------------------------------------------+
